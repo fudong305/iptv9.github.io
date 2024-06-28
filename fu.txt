@@ -186,6 +186,8 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 零号追杀,https://v.cdnlz19.com/20230925/935_773a40f4/2000k/hls/mixed.m3u8
 犯罪都市2,https://cdn16.yzzy-tv-cdn.com/20230529/7303_6269e3bb/2000k/hls/index.m3u8
 犯罪都市3,https://cdn16.yzzy-tv-cdn.com/20230706/12634_b61faff2/2000k/hls/index.m3u8
+给爸爸的信,https://vip.ffzy-play6.com/20221112/6285_c5b82082/2000k/hls/mixed.m3u8
+中南海保镖,https://vip.ffzy-play9.com/20221209/19580_e3bd0850/2000k/hls/mixed.m3u8
 
 
 
@@ -255,8 +257,6 @@ NewTV金牌综艺,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225525/
 
 
 豆瓣高分电影,#genre#
-给爸爸的信,https://vip.ffzy-play6.com/20221112/6285_c5b82082/2000k/hls/mixed.m3u8
-中南海保镖,https://vip.ffzy-play9.com/20221209/19580_e3bd0850/2000k/hls/mixed.m3u8
 93航班,https://vip.ffzy-play6.com/20221029/2744_7fdbe383/2000k/hls/mixed.m3u8
 萨利机长,https://vip.ffzy-play7.com/20221106/1835_c7f12160/2000k/hls/mixed.m3u8
 极限逃生,https://leshiyuncdn.36s.top/20230717/pxxDBst0/hls/index.m3u8
@@ -391,6 +391,45 @@ NewTV金牌综艺,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225525/
 大吉大利影院,https://pull.kktv8.com/livekktv/128600025.flv
 吃米滴虫✔原,http://159.75.85.63:35455/douyu/315457
 冰冰经典✔原,http://159.75.85.63:35455/douyu/74374
+星爷影院✔原,http://159.75.85.63:35455/douyu/508118
+凌儿影院✔原,http://159.75.85.63:35455/douyu/1377142
+瑶瑶恐怖✔原,http://159.75.85.63:35455/douyu/2935323
+怡寶影院✔原,http://159.75.85.63:35455/douyu/434971
+小黛兮影✔原,http://159.75.85.63:35455/douyu/11553944
+萌小鬼片✔原,http://159.75.85.63:35455/douyu/3928
+神乐影剧✔原,http://159.75.85.63:35455/douyu/122402
+可乐影院✔原,http://159.75.85.63:35455/douyu/20415
+小宇60帧✔原,http://159.75.85.63:35455/douyu/323876
+恐怖惊悚✔原,http://159.75.85.63:35455/douyu/96577
+電影劇場✔原,http://159.75.85.63:35455/douyu/7575350
+豆瓣高分✔原,http://159.75.85.63:35455/douyu/8770422
+花卷陪看✔原,http://159.75.85.63:35455/douyu/52787
+漫威剧情✔原,http://159.75.85.63:35455/douyu/6140589
+霍格沃茨✔原,http://159.75.85.63:35455/douyu/8814650
+鱼宝恐怖✔原,http://159.75.85.63:35455/douyu/1165374
+吃奶滴虫✔原,http://159.75.85.63:35455/douyu/263824
+变种人片✔原,http://159.75.85.63:35455/douyu/9651304
+喜剧电影✔原,http://159.75.85.63:35455/douyu/9292492
+女神电影✔原,http://159.75.85.63:35455/douyu/747764
+避风影院✔原,http://159.75.85.63:35455/douyu/9826611
+欧美大片✔原,http://159.75.85.63:35455/douyu/2793084
+贝爷max✔原,http://159.75.85.63:35455/douyu/4332
+贝爷影厅✔原,http://159.75.85.63:35455/douyu/252802
+凌儿影院✔原,http://maomao.kandiantv.cn/douyu1.php?id=1377142
+小宇60帧✔原,http://maomao.kandiantv.cn/douyu1.php?id=323876
+恐怖惊悚✔原,http://maomao.kandiantv.cn/douyu1.php?id=96577
+電影劇場✔原,http://maomao.kandiantv.cn/douyu1.php?id=7575350
+豆瓣高分✔原,http://maomao.kandiantv.cn/douyu1.php?id=8770422
+花卷陪看✔原,http://maomao.kandiantv.cn/douyu1.php?id=52787
+漫威剧情✔原,http://maomao.kandiantv.cn/douyu1.php?id=6140589
+霍格沃茨✔原,http://maomao.kandiantv.cn/douyu1.php?id=8814650
+鱼宝恐怖✔原,http://maomao.kandiantv.cn/douyu1.php?id=1165374
+吃奶滴虫✔原,http://maomao.kandiantv.cn/douyu1.php?id=263824
+变种人片✔原,http://maomao.kandiantv.cn/douyu1.php?id=9651304
+喜剧电影✔原,http://maomao.kandiantv.cn/douyu1.php?id=9292492
+女神电影✔原,http://maomao.kandiantv.cn/douyu1.php?id=747764
+欧美大片✔原,http://maomao.kandiantv.cn/douyu1.php?id=2793084
+贝爷影厅✔原,http://maomao.kandiantv.cn/douyu1.php?id=252802
 
 
 
