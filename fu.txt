@@ -140,48 +140,52 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 
 
-影视轮播,#genre#
-CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
-CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
-CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
-中国功夫,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-超级电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-动作电影,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225555/index.m3u8
-黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-明星大片,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-惊悚悬疑,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-家庭剧场,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-湖南电影,http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
-超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-东北热剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-超级视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-金鹰卡通,http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
-明星大片,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-梨园戏曲,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-金牌综艺,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-南宁影视娱乐,https://epg.pw/stream/c07fe71bf674966d249173bd55be89ce14fb5e8bef37095b95e41e9af6253665.m3u8
-海外剧场,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-军旅剧场,http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-惊悚悬疑,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-潮妈辣婆,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-精品体育,http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-精品纪录,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-家庭剧场,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-精品大剧,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-军事评论,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-4K电影频道,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?fmmv6
-戏曲,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000423/index.m3u8?
-音乐,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000082/index.m3u8?
-娱乐,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000421/index.m3u8?
-综艺,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000088/index.m3u8?
-综艺,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000235/index.m3u8?
 
+经典电影,#genre#
+八仙饭店之人肉叉烧包,https://cdn7.vipbf-video.com/20220625/522_d549191f/1000k/hls/index.m3u8
+人肉叉烧包2之天诛地灭,https://cdn17.yzzy-kb-cdn.com/20230727/13350_6bb05f6c/2000k/hls/index.m3u8
+古惑仔战无不胜,https://hnzy.bfvvs.com/play/lejR29le/index.m3u8
+古惑仔之龙争虎斗,https://hnzy.bfvvs.com/play/Pdy5qVdQ/index.m3u8
+古惑仔2之猛龙过江,https://sd3.taopianplay1.com:43333/c56b1bc09da3/HD/2022-11-17/1/46ca3dfeb4d9/2493847c1aab/playlist.m3u8
+古惑仔3之只手遮天,https://cdn17.vipyz-cdn1.com/20230820/16595_19ad0c55/2000k/hls/index.m3u8
+古惑仔之人在江湖,https://sd1.taopianplay1.com:43333/c56b1bc09da3/HD/2022-09-20/1/3d74cd6519be/6dfe165b4328/playlist.m3u8
+古惑仔之火拼街头,https://hnzy.bfvvs.com/play/5eVOZoBa/index.m3u8
+洪兴大飞哥,https://cdn17.yzzy-kb-cdn.com/20230812/15593_819fb9b7/2000k/hls/index.m3u8
+九龙冰室,https://cdn17.yzzy-kb-cdn.com/20230812/15565_96e3cc7d/2000k/hls/index.m3u8
+力王,https://hnzy.bfvvs.com/play/5eVAGLMd/index.m3u8
+扫毒2：天地对决,https://vip.lz-cdn3.com/20230809/20946_49fcdb16/2000k/hls/mixed.m3u8
+赌神,https://cdn17.yzzy-kb-cdn.com/20230730/13850_d9788cef/2000k/hls/index.m3u8
+赌神2,https://cdn10.yzzy-tv1.com/20221128/16154_b82943f4/1000k/hls/index.m3u8
+国产零零漆,https://yzzy.play-cdn2.com/20220331/4906_17d3fb9b/1000k/hls/index.m3u8
+九龙城寨之围城国语,https://v.cdnlz3.com/20240621/23931_0923f192/2000k/hls/mixed.m3u8
+快餐车,https://yzzy.play-cdn17.com/20230818/16398_b8f534bd/2000k/hls/index.m3u8
+零号追杀,https://cdn16.yzzy-kb-cdn.com/20230721/13576_28def4bc/2000k/hls/index.m3u8
+断网,https://cdn15.yzzy-tv1.com/20230331/5200_2b2b8c2a/2000k/hls/index.m3u8
+毒舌律师,https://cdn17.yzzy-tv-cdn.com/20230525/6056_d875f86f/2000k/hls/index.m3u8
+怒火·重案,https://cdn17.yzzy-kb-cdn.com/20230723/12321_ab119b30/2000k/hls/index.m3u8
+三叉戟,https://cdn.wlcdn99.com:777/8563340e/index.m3u8
+功夫熊猫4,https://yzzy.play-cdn21.com/20240410/29373_4da7f681/2000k/hls/mixed.m3u8
+周处除三害,https://vip.ffzyread.com/20240301/24303_f0da8c06/2000k/hls/mixed.m3u8
+双龙会,https://yzzy.play-cdn17.com/20230821/16682_881ba66c/2000k/hls/index.m3u8
+孤注一掷,https://hnzy.bfvvs.com/play/DbDOGgAa/index.m3u8
+消失的她,https://hnzy.bfvvs.com/play/1aKRJ9Ye/index.m3u8
+速度与激情9,https://cdn12.yzzy-tv1.com/20221229/12848_19dd3dd1/1000k/hls/index.m3u8
+速度与激情10,https://cdn15.yzzy-tv-cdn.com/20230610/15338_08b48b5a/2000k/hls/index.m3u8
+八角笼中,https://hnzy.bfvvs.com/play/QeZNzB2e/index.m3u8
+飞驰人生2,https://hn.bfvvs.com/play/RdGqPZJa/index.m3u8
+巨齿鲨2：深渊,https://vip.ffzy-online6.com/20230825/17374_134ba238/2000k/hls/index.m3u8
+海王2：失落的王国,https://vip.ffzy-online6.com/20240123/25157_083fb875/2000k/hls/index.m3u8
+流浪地球2,https://cdn16.yzzy-tv-cdn.com/20230414/7_d0737c10/2000k/hls/index.m3u8
+坚如磐石,https://vip.ffzyread1.com/20231215/22193_54dad8f9/2000k/hls/mixed.m3u8
+前任4：英年早婚,https://vip.ffzy-online6.com/20231207/22697_c067d4cf/2000k/hls/index.m3u8
+霜花店,https://cdn7.vipbf-video.com/20220626/855_22c3ae8e/1000k/hls/index.m3u8
+人生路不熟,https://hnzy.bfvvs.com/play/5eVyVl1d/index.m3u8
+犯罪都市3,https://hn.bfvvs.com/play/9av00VLd/index.m3u8
+扫毒3：人在天涯,https://cdn16.yzzy-kb-cdn.com/20230809/15841_b806107c/2000k/hls/index.m3u8
+三大队电影版,https://vip.ffzy-online6.com/20240202/25627_f9c6348c/2000k/hls/index.m3u8
+零号追杀,https://v.cdnlz19.com/20230925/935_773a40f4/2000k/hls/mixed.m3u8
+犯罪都市2,https://cdn16.yzzy-tv-cdn.com/20230529/7303_6269e3bb/2000k/hls/index.m3u8
+犯罪都市3,https://cdn16.yzzy-tv-cdn.com/20230706/12634_b61faff2/2000k/hls/index.m3u8
 
 
 
@@ -206,7 +210,6 @@ NewTV金牌综艺,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225525/
 求索生活,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
 求索动物,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
 文物宝库,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
-古装剧场,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225524/index.m3u8
 农业致富,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225552/index.m3u8
 梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
@@ -237,7 +240,17 @@ NewTV金牌综艺,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225525/
 精品萌宠,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 超级综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-
+湖南电影,http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
+爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+金鹰卡通,http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+金牌综艺,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+南宁影视娱乐,https://epg.pw/stream/c07fe71bf674966d249173bd55be89ce14fb5e8bef37095b95e41e9af6253665.m3u8
+4K电影频道,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?fmmv6
+戏曲,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000423/index.m3u8?
+音乐,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000082/index.m3u8?
+娱乐,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000421/index.m3u8?
+综艺,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000088/index.m3u8?
+综艺,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000235/index.m3u8?
 
 
 
