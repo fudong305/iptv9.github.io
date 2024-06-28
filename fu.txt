@@ -1696,5 +1696,5 @@ TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 
 
 ☎️后台管理,#genre#
-后台维护请联系,https://mi.gx10086.us.kg/file/7af55dcbfaa9f7da17c19.mp4
-QQ305362952,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+后台维护请联系,https://mi.gx10086.us.kg/file/e8cb28f4a161a73e301ba.mp4
+QQ305362952,https://mi.gx10086.us.kg/file/8bb63eaf3538d6f8f1acf.jpg
