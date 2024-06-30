@@ -69,11 +69,15 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 新疆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 兵团卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 延边卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
-大湾区卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
+大湾区卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
 安多卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 吉林卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+
 
 
 
@@ -142,6 +146,29 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 
 经典电影,#genre#
+功夫熊猫4,https://yzzy.play-cdn21.com/20240410/29373_4da7f681/2000k/hls/mixed.m3u8
+维和防暴队,https://v2.fentvoss.com/sdv2/202406/13/bJ4XKX5MRW10/video/index.m3u8
+朝云暮雨,https://hn.bfvvs.com/play/xbo11jke/index.m3u8
+三叉戟,https://cdn.wlcdn99.com:777/8563340e/index.m3u8
+周处除三害,https://vip.ffzyread.com/20240301/24303_f0da8c06/2000k/hls/mixed.m3u8
+飞驰人生2,https://hn.bfvvs.com/play/RdGqPZJa/index.m3u8
+巨齿鲨2：深渊,https://vip.ffzy-online6.com/20230825/17374_134ba238/2000k/hls/index.m3u8
+海王2：失落的王国,https://vip.ffzy-online6.com/20240123/25157_083fb875/2000k/hls/index.m3u8
+流浪地球2,https://cdn16.yzzy-tv-cdn.com/20230414/7_d0737c10/2000k/hls/index.m3u8
+坚如磐石,https://vip.ffzyread1.com/20231215/22193_54dad8f9/2000k/hls/mixed.m3u8
+前任4：英年早婚,https://vip.ffzy-online6.com/20231207/22697_c067d4cf/2000k/hls/index.m3u8
+霜花店,https://cdn7.vipbf-video.com/20220626/855_22c3ae8e/1000k/hls/index.m3u8
+消失的她,https://hnzy.bfvvs.com/play/1aKRJ9Ye/index.m3u8
+速度与激情9,https://cdn12.yzzy-tv1.com/20221229/12848_19dd3dd1/1000k/hls/index.m3u8
+速度与激情10,https://cdn15.yzzy-tv-cdn.com/20230610/15338_08b48b5a/2000k/hls/index.m3u8
+八角笼中,https://hnzy.bfvvs.com/play/QeZNzB2e/index.m3u8
+人生路不熟,https://hnzy.bfvvs.com/play/5eVyVl1d/index.m3u8
+犯罪都市3,https://hn.bfvvs.com/play/9av00VLd/index.m3u8
+扫毒3：人在天涯,https://cdn16.yzzy-kb-cdn.com/20230809/15841_b806107c/2000k/hls/index.m3u8
+三大队电影版,https://vip.ffzy-online6.com/20240202/25627_f9c6348c/2000k/hls/index.m3u8
+零号追杀,https://v.cdnlz19.com/20230925/935_773a40f4/2000k/hls/mixed.m3u8
+犯罪都市2,https://cdn16.yzzy-tv-cdn.com/20230529/7303_6269e3bb/2000k/hls/index.m3u8
+犯罪都市3,https://cdn16.yzzy-tv-cdn.com/20230706/12634_b61faff2/2000k/hls/index.m3u8
 八仙饭店之人肉叉烧包,https://cdn7.vipbf-video.com/20220625/522_d549191f/1000k/hls/index.m3u8
 人肉叉烧包2之天诛地灭,https://cdn17.yzzy-kb-cdn.com/20230727/13350_6bb05f6c/2000k/hls/index.m3u8
 古惑仔战无不胜,https://hnzy.bfvvs.com/play/lejR29le/index.m3u8
@@ -163,29 +190,12 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 断网,https://cdn15.yzzy-tv1.com/20230331/5200_2b2b8c2a/2000k/hls/index.m3u8
 毒舌律师,https://cdn17.yzzy-tv-cdn.com/20230525/6056_d875f86f/2000k/hls/index.m3u8
 怒火·重案,https://cdn17.yzzy-kb-cdn.com/20230723/12321_ab119b30/2000k/hls/index.m3u8
-三叉戟,https://cdn.wlcdn99.com:777/8563340e/index.m3u8
-功夫熊猫4,https://yzzy.play-cdn21.com/20240410/29373_4da7f681/2000k/hls/mixed.m3u8
-周处除三害,https://vip.ffzyread.com/20240301/24303_f0da8c06/2000k/hls/mixed.m3u8
 双龙会,https://yzzy.play-cdn17.com/20230821/16682_881ba66c/2000k/hls/index.m3u8
 孤注一掷,https://hnzy.bfvvs.com/play/DbDOGgAa/index.m3u8
 消失的她,https://hnzy.bfvvs.com/play/1aKRJ9Ye/index.m3u8
 速度与激情9,https://cdn12.yzzy-tv1.com/20221229/12848_19dd3dd1/1000k/hls/index.m3u8
 速度与激情10,https://cdn15.yzzy-tv-cdn.com/20230610/15338_08b48b5a/2000k/hls/index.m3u8
 八角笼中,https://hnzy.bfvvs.com/play/QeZNzB2e/index.m3u8
-飞驰人生2,https://hn.bfvvs.com/play/RdGqPZJa/index.m3u8
-巨齿鲨2：深渊,https://vip.ffzy-online6.com/20230825/17374_134ba238/2000k/hls/index.m3u8
-海王2：失落的王国,https://vip.ffzy-online6.com/20240123/25157_083fb875/2000k/hls/index.m3u8
-流浪地球2,https://cdn16.yzzy-tv-cdn.com/20230414/7_d0737c10/2000k/hls/index.m3u8
-坚如磐石,https://vip.ffzyread1.com/20231215/22193_54dad8f9/2000k/hls/mixed.m3u8
-前任4：英年早婚,https://vip.ffzy-online6.com/20231207/22697_c067d4cf/2000k/hls/index.m3u8
-霜花店,https://cdn7.vipbf-video.com/20220626/855_22c3ae8e/1000k/hls/index.m3u8
-人生路不熟,https://hnzy.bfvvs.com/play/5eVyVl1d/index.m3u8
-犯罪都市3,https://hn.bfvvs.com/play/9av00VLd/index.m3u8
-扫毒3：人在天涯,https://cdn16.yzzy-kb-cdn.com/20230809/15841_b806107c/2000k/hls/index.m3u8
-三大队电影版,https://vip.ffzy-online6.com/20240202/25627_f9c6348c/2000k/hls/index.m3u8
-零号追杀,https://v.cdnlz19.com/20230925/935_773a40f4/2000k/hls/mixed.m3u8
-犯罪都市2,https://cdn16.yzzy-tv-cdn.com/20230529/7303_6269e3bb/2000k/hls/index.m3u8
-犯罪都市3,https://cdn16.yzzy-tv-cdn.com/20230706/12634_b61faff2/2000k/hls/index.m3u8
 给爸爸的信,https://vip.ffzy-play6.com/20221112/6285_c5b82082/2000k/hls/mixed.m3u8
 中南海保镖,https://vip.ffzy-play9.com/20221209/19580_e3bd0850/2000k/hls/mixed.m3u8
 
