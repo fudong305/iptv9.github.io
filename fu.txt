@@ -419,6 +419,9 @@ NewTV金牌综艺,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLT
 
 
 电影轮播,#genre#
+成龙,http://zby.xjqxz.top/cldy/live.m3u8
+周星驰,http://zby.xjqxz.top/live12/live.m3u8
+李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
 斗鱼电影3,http://diyp.112114.xyz/douyu/6369954
 斗鱼电影3,http://epg.112114.xyz/douyu/36337
 斗鱼电影1,http://allinone.netsite.cc/douyu/747764
