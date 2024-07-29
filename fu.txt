@@ -146,9 +146,6 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 
 数字频道,#genre#
-CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
-CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
-CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
 NewTV金牌综艺,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 乐游频道,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 欢笑剧场,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
@@ -502,17 +499,11 @@ iHOT爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000040000000
 CCTV5,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
 CCTV5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
 五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS
-CCTV-台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
 咪咕篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 咪咕足球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 精品体育,http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 超级体育,,https://epg.pw/stream/b5b459fdf6a6a42903675a6e0b7dea1a98b65b4821289b293c9676167fa75c74.m3u8
 拳击,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000430/index.m3u8?
-风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
-央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
-央视高网,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
-风云足球,https://epg.pw/stream/429f44be8f007cfd67bf72ba165eb20871064218965c65efd1207c1c112b371c.m3u8
-风云足球,https://epg.pw/stream/2d6613a4624da0846ee8414ea2bc90f845a5cce72d08600abf3926cb2978a54f.m3u8
 五星体育*,https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.ctv
 五星体育*,https://epg.pw/stream/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cca4e7a3.ctv
 五星体育*,https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.ctv
@@ -531,11 +522,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 
 
 湖北频道,#genre#
-湖北生活,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKJPodw5BcDirSOw7egztI5bUvJjqPzSNAhrA37GrbRBIAjGQpzP0QmgsmuHnQyd2c
-湖北教育,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
-湖北影视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
-湖北公共,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
-湖北垄上,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNL%2Be1h4FfA5QqwJ7IPOz3p2qIS7djSxm17Htd%2FckZkm%2FVqsKHEJFJt26ju9iibzMEo
 武汉新闻综合,https://epg.pw/stream/277c2b350a2b37b80dd8a4b766d55c7bf7b44e2b0cdfbe38024cf5803f80ace4.m3u8#http://stream.appwuhan.com/1tzb/sd/live.m3u8
 鄂州新闻综合,https://epg.pw/stream/a548b0d006d8b7197c3544f2a678e07744882777dc4c25e42a94e9cc27d006b3.m3u8#http://ezhou-live21.cjyun.org/10098/s10098-EZ1T.m3u8?auth_key=1704038399-0-0-f97391c85e7bf53b885ed7d63cf722c0
 武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
@@ -2655,78 +2641,41 @@ X圣治（日本恐怖片）,https://v.cdnlz3.com/20230904/21591_14cb8159/index.
 
 
 
-全国实时风景,#genre#
+全国风景直播,#genre#
 全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 黟县宏村月沼,https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
 黟县宏村南湖,https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
 黟县西递牌坊,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
-黟县西递半山亭俯瞰,https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8?contentid=2820180516001
-黟县卢村远眺,https://gccncc.v.wscdns.com/gc/yxlcyt_1/index.m3u8?contentid=2820180516001
 婺源江岭1,https://gctxyc.liveplay.myqcloud.com/gc/wygjt1_1/index.m3u8?contentid=2820180516001
-婺源江岭2,https://gccncc.v.wscdns.com/gc/wygjt2_1/index.m3u8?contentid=2820180516001
 黄山始信峰,https://gctxyc.liveplay.myqcloud.com/gc/hssxf_1/index.m3u8?contentid=2820180516001
 黄山卧云峰,https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
-黄山梦笔生花,https://gccncc.v.wscdns.com/gc/hsmbsh_1/index.m3u8?contentid=2820180516001
 黄山排云亭,https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8?contentid=2820180516001
 黄山西海大峡谷,https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001
-黄山光明顶,https://gccncc.v.wscdns.com/gc/hsgmd_1/index.m3u8?contentid=2820180516001
-黄山信兴道,https://gccncc.v.wscdns.com/gc/hsyg_1/index.m3u8?contentid=2820180516001
-黄山平天矼,https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8?contentid=2820180516001
-黄山飞来石,https://gccncc.v.wscdns.com/gc/hsptgy_1/index.m3u8?contentid=2820180516001
-云台山红石硖,https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8?contentid=2820180516001
 泰山主峰,https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
 泰山迎客松,https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8?contentid=2820180516001
 泰山大观峰,https://gctxyc.liveplay.myqcloud.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
-泰山拱北石,https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8?contentid=2820180516001
 泰山十八盘,https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
 泰山玉皇顶,https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
-泰山天街,https://gccncc.v.wscdns.com/gc/taishan07_1/index.m3u8?contentid=2820180516001
-云台山小寨沟,https://gccncc.v.wscdns.com/gc/ytsxzg_1/index.m3u8?contentid=2820180516001
-云台山百家岩,https://gccncc.v.wscdns.com/gc/ytsbjy_1/index.m3u8?contentid=2820180516001
-云台山茱萸峰,https://gccncc.v.wscdns.com/gc/ytszyf_1/index.m3u8?contentid=2820180516001
 武夷山玉女峰,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8?contentid=2820180516001
 印象大红袍,https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8?contentid=2820180516001
 武夷山大红袍茶园,https://gctxyc.liveplay.myqcloud.com/gc/wysdhpcy_1/index.m3u8?contentid=2820180516001
-张家界迷魂台,https://gccncc.v.wscdns.com/gc/zjjmht_1/index.m3u8?contentid=2820180516001
-张家界水绕4门,https://gccncc.v.wscdns.com/gc/zjjsrsm_1/index.m3u8?contentid=2820180516001
 张家界将军列队,https://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
-张家界阿凡达悬浮山,https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8?contentid=2820180516001
-凤凰古城,https://gccncc.v.wscdns.com/gc/fhgcdgm_1/index.m3u8?contentid=2820180516001
-凤凰古城南华山,https://gccncc.v.wscdns.com/gc/fhgcdnhs_1/index.m3u8?contentid=2820180516001
-卢村远眺,https://gccncc.v.wscdns.com/gc/yxlcyt_1/index.m3u8?contentid=2820180516001
-宠村月沼,https://gccncc.v.wscdns.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
-少林寺广场,https://gccncc.v.wscdns.com/gc/zsslsgc_1/index.m3u8?contentid=2820180516001
 水长城镜头一,https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
 水长城镜头二,https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
-水长城镜头三,https://gccncc.v.wscdns.com/gc/wgw03_1/index.m3u8?contentid=2820180516001
-水长城镜头四,https://gccncc.v.wscdns.com/gc/wgw04_1/index.m3u8?contentid=2820180516001
-狮子山鸟瞰古城,https://gccncc.v.wscdns.com/gc/ljgcszsnkgc_1/index.m3u8?contentid=2820180516001
 远眺玉龙雪山,https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8?contentid=2820180516001
 大研花巷景观台,https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8?contentid=2820180516001
 峨眉云海日出,https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8?contentid=2820180516001
 贡嘎雪山,https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8?contentid=2820180516001
 远眺万佛顶,https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8?contentid=2820180516001
 普贤菩萨像,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8?contentid=2820180516001
-乐山大佛全景,https://gccncc.v.wscdns.com/gc/lsdfgfl_1/index.m3u8?contentid=2820180516001
 悬空寺全景,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
-恒宗,https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8?contentid=2820180516001
-悬空寺侧景,https://gcalic.v.myalicdn.com/gc/hsxkscj_1/index.m3u8?contentid=2820180516001
 天涯鸟瞰,https://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1/index.m3u8?contentid=2820180516001
 天涯石,https://gctxyc.liveplay.myqcloud.com/gc/tyhjtys_1/index.m3u8?contentid=2820180516001
 南天一柱,https://gctxyc.liveplay.myqcloud.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001
-日月石,https://gccncc.v.wscdns.com/gc/tyhjrys_1/index.m3u8?contentid=2820180516001
 雪乡大石碑,https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
 雪乡梦幻家园,https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
-观景台,https://gccncc.v.wscdns.com/gc/mdjxxmhjygjt_1/index.m3u8?contentid=2820180516001
 嘉峪关长城,https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
-大水库,https://gccncc.v.wscdns.com/gc/ljgcdsc_1/index.m3u8?contentid=2820180516001
-中央电视台中塔西,https://gccncc.v.wscdns.com/gc/ztx_1/index.m3u8?contentid=2820180516001
 中央电视台中塔东,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
-中央电视台中塔南,https://gccncc.v.wscdns.com/gc/ztn_1/index.m3u8?contentid=2820180516001
-中央电视台中塔北,https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
-小布达拉宫,https://gcalic.v.myalicdn.com/gc/bsszxbdlg_1/index.m3u8?contentid=2820180516001
-棒槌山,https://gccncc.v.wscdns.com/gc/bsszbcs_1/index.m3u8?contentid=2820180516001
-远眺山庄,https://gcalic.v.myalicdn.com/gc/bssztt_1/index.m3u8?contentid=2820180516001
 金山,https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8?contentid=2820180516001
 
 
