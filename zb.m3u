@@ -4,7 +4,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 group-title="央视直播,#genre#",CCTV-2
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 #EXTINF:-1 group-title="央视直播,#genre#",CCTV-3
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727c125355/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMUNNEYLCPUtKY62j1Wp5u04wipypKUQ1TTuR2lXvBl5YpHqBJmlA19x22TD9bUOjk
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 group-title="央视直播,#genre#",CCTV-4
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 group-title="央视直播,#genre#",CCTV-5
@@ -20,7 +20,7 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 group-title="央视直播,#genre#",CCTV-9
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 #EXTINF:-1 group-title="央视直播,#genre#",CCTV-10
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000375/index.m3u8?key=tvbox6_com
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 group-title="央视直播,#genre#",CCTV-11
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 #EXTINF:-1 group-title="央视直播,#genre#",CCTV-12
@@ -375,6 +375,118 @@ http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000421/ind
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000088/index.m3u8?
 #EXTINF:-1 group-title="数字频道,#genre#",综艺
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000235/index.m3u8?
+#EXTINF:-1 group-title="电影轮播,#genre#",成龙
+http://zby.xjqxz.top/cldy/live.m3u8
+#EXTINF:-1 group-title="电影轮播,#genre#",周星驰
+http://zby.xjqxz.top/live12/live.m3u8
+#EXTINF:-1 group-title="电影轮播,#genre#",李连杰
+http://zby.xjqxz.top/lljdy/live.m3u8
+#EXTINF:-1 group-title="电影轮播,#genre#",斗鱼电影3
+http://diyp.112114.xyz/douyu/6369954
+#EXTINF:-1 group-title="电影轮播,#genre#",斗鱼电影3
+http://epg.112114.xyz/douyu/36337
+#EXTINF:-1 group-title="电影轮播,#genre#",斗鱼电影1
+http://allinone.netsite.cc/douyu/747764
+#EXTINF:-1 group-title="电影轮播,#genre#",斗鱼电影3
+http://allinone.netsite.cc/douyu/36337
+#EXTINF:-1 group-title="电影轮播,#genre#",斗鱼电影02
+http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000p.flv?wsAuth=f149db0a268e17b462c4032f715fc551&token=cpn-androidmpro-0-85894-a3575d938a4aa30976aaee9c53a07043e9aa8ec98785781a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+#EXTINF:-1 group-title="电影轮播,#genre#",斗鱼电影19
+http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 group-title="电影轮播,#genre#",斗鱼电影19
+http://tc-tct.douyucdn2.cn/dyliveflv1/20415rnWbjg6Ex1K_2000.flv?wsAuth=21eac7e8c6f60737a5777695d7e78b65&token=cpn-androidmpro-0-20415-b6774b3b3249db1714f6a26ef1f3033367889a4abcf8fd1f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+#EXTINF:-1 group-title="电影轮播,#genre#",斗鱼直播-开心麻花经典小品
+http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+#EXTINF:-1 group-title="电影轮播,#genre#",斗鱼电影2
+http://allinone.netsite.cc/douyu/6140589
+#EXTINF:-1 group-title="电影轮播,#genre#",神乐影院-1台
+https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+#EXTINF:-1 group-title="电影轮播,#genre#",神乐影院-2台
+https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+#EXTINF:-1 group-title="电影轮播,#genre#",大吉大利影院
+https://pull.kktv8.com/livekktv/128600025.flv
+#EXTINF:-1 group-title="电影轮播,#genre#",吃米滴虫✔原
+http://159.75.85.63:35455/douyu/315457
+#EXTINF:-1 group-title="电影轮播,#genre#",冰冰经典✔原
+http://159.75.85.63:35455/douyu/74374
+#EXTINF:-1 group-title="电影轮播,#genre#",星爷影院✔原
+http://159.75.85.63:35455/douyu/508118
+#EXTINF:-1 group-title="电影轮播,#genre#",凌儿影院✔原
+http://159.75.85.63:35455/douyu/1377142
+#EXTINF:-1 group-title="电影轮播,#genre#",瑶瑶恐怖✔原
+http://159.75.85.63:35455/douyu/2935323
+#EXTINF:-1 group-title="电影轮播,#genre#",怡寶影院✔原
+http://159.75.85.63:35455/douyu/434971
+#EXTINF:-1 group-title="电影轮播,#genre#",小黛兮影✔原
+http://159.75.85.63:35455/douyu/11553944
+#EXTINF:-1 group-title="电影轮播,#genre#",萌小鬼片✔原
+http://159.75.85.63:35455/douyu/3928
+#EXTINF:-1 group-title="电影轮播,#genre#",神乐影剧✔原
+http://159.75.85.63:35455/douyu/122402
+#EXTINF:-1 group-title="电影轮播,#genre#",可乐影院✔原
+http://159.75.85.63:35455/douyu/20415
+#EXTINF:-1 group-title="电影轮播,#genre#",小宇60帧✔原
+http://159.75.85.63:35455/douyu/323876
+#EXTINF:-1 group-title="电影轮播,#genre#",恐怖惊悚✔原
+http://159.75.85.63:35455/douyu/96577
+#EXTINF:-1 group-title="电影轮播,#genre#",電影劇場✔原
+http://159.75.85.63:35455/douyu/7575350
+#EXTINF:-1 group-title="电影轮播,#genre#",豆瓣高分✔原
+http://159.75.85.63:35455/douyu/8770422
+#EXTINF:-1 group-title="电影轮播,#genre#",花卷陪看✔原
+http://159.75.85.63:35455/douyu/52787
+#EXTINF:-1 group-title="电影轮播,#genre#",漫威剧情✔原
+http://159.75.85.63:35455/douyu/6140589
+#EXTINF:-1 group-title="电影轮播,#genre#",霍格沃茨✔原
+http://159.75.85.63:35455/douyu/8814650
+#EXTINF:-1 group-title="电影轮播,#genre#",鱼宝恐怖✔原
+http://159.75.85.63:35455/douyu/1165374
+#EXTINF:-1 group-title="电影轮播,#genre#",吃奶滴虫✔原
+http://159.75.85.63:35455/douyu/263824
+#EXTINF:-1 group-title="电影轮播,#genre#",变种人片✔原
+http://159.75.85.63:35455/douyu/9651304
+#EXTINF:-1 group-title="电影轮播,#genre#",喜剧电影✔原
+http://159.75.85.63:35455/douyu/9292492
+#EXTINF:-1 group-title="电影轮播,#genre#",女神电影✔原
+http://159.75.85.63:35455/douyu/747764
+#EXTINF:-1 group-title="电影轮播,#genre#",避风影院✔原
+http://159.75.85.63:35455/douyu/9826611
+#EXTINF:-1 group-title="电影轮播,#genre#",欧美大片✔原
+http://159.75.85.63:35455/douyu/2793084
+#EXTINF:-1 group-title="电影轮播,#genre#",贝爷max✔原
+http://159.75.85.63:35455/douyu/4332
+#EXTINF:-1 group-title="电影轮播,#genre#",贝爷影厅✔原
+http://159.75.85.63:35455/douyu/252802
+#EXTINF:-1 group-title="电影轮播,#genre#",凌儿影院✔原
+http://maomao.kandiantv.cn/douyu1.php?id=1377142
+#EXTINF:-1 group-title="电影轮播,#genre#",小宇60帧✔原
+http://maomao.kandiantv.cn/douyu1.php?id=323876
+#EXTINF:-1 group-title="电影轮播,#genre#",恐怖惊悚✔原
+http://maomao.kandiantv.cn/douyu1.php?id=96577
+#EXTINF:-1 group-title="电影轮播,#genre#",電影劇場✔原
+http://maomao.kandiantv.cn/douyu1.php?id=7575350
+#EXTINF:-1 group-title="电影轮播,#genre#",豆瓣高分✔原
+http://maomao.kandiantv.cn/douyu1.php?id=8770422
+#EXTINF:-1 group-title="电影轮播,#genre#",花卷陪看✔原
+http://maomao.kandiantv.cn/douyu1.php?id=52787
+#EXTINF:-1 group-title="电影轮播,#genre#",漫威剧情✔原
+http://maomao.kandiantv.cn/douyu1.php?id=6140589
+#EXTINF:-1 group-title="电影轮播,#genre#",霍格沃茨✔原
+http://maomao.kandiantv.cn/douyu1.php?id=8814650
+#EXTINF:-1 group-title="电影轮播,#genre#",鱼宝恐怖✔原
+http://maomao.kandiantv.cn/douyu1.php?id=1165374
+#EXTINF:-1 group-title="电影轮播,#genre#",吃奶滴虫✔原
+http://maomao.kandiantv.cn/douyu1.php?id=263824
+#EXTINF:-1 group-title="电影轮播,#genre#",变种人片✔原
+http://maomao.kandiantv.cn/douyu1.php?id=9651304
+#EXTINF:-1 group-title="电影轮播,#genre#",喜剧电影✔原
+http://maomao.kandiantv.cn/douyu1.php?id=9292492
+#EXTINF:-1 group-title="电影轮播,#genre#",女神电影✔原
+http://maomao.kandiantv.cn/douyu1.php?id=747764
+#EXTINF:-1 group-title="电影轮播,#genre#",欧美大片✔原
+http://maomao.kandiantv.cn/douyu1.php?id=2793084
+#EXTINF:-1 group-title="电影轮播,#genre#",贝爷影厅✔原
+http://maomao.kandiantv.cn/douyu1.php?id=252802
 #EXTINF:-1 group-title="经典电影1,#genre#",功夫熊猫4
 https://yzzy.play-cdn21.com/20240410/29373_4da7f681/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="经典电影1,#genre#",维和防暴队
@@ -759,112 +871,6 @@ https://vip.kuaikan-cdn3.com/20230331/gY6qi4ni/hls/index.m3u8
 https://svipsvip.ffzy-online5.com/20240506/26948_6fe0b3cc/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="豆瓣高分电影,#genre#",哥斯拉大战金刚2：帝国崛起
 https://svipsvip.ffzy-online5.com/20240514/27243_6a0055ac/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="电影轮播,#genre#",斗鱼电影3
-http://diyp.112114.xyz/douyu/6369954
-#EXTINF:-1 group-title="电影轮播,#genre#",斗鱼电影3
-http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 group-title="电影轮播,#genre#",斗鱼电影1
-http://allinone.netsite.cc/douyu/747764
-#EXTINF:-1 group-title="电影轮播,#genre#",斗鱼电影3
-http://allinone.netsite.cc/douyu/36337
-#EXTINF:-1 group-title="电影轮播,#genre#",斗鱼电影02
-http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000p.flv?wsAuth=f149db0a268e17b462c4032f715fc551&token=cpn-androidmpro-0-85894-a3575d938a4aa30976aaee9c53a07043e9aa8ec98785781a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 group-title="电影轮播,#genre#",斗鱼电影19
-http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 group-title="电影轮播,#genre#",斗鱼电影19
-http://tc-tct.douyucdn2.cn/dyliveflv1/20415rnWbjg6Ex1K_2000.flv?wsAuth=21eac7e8c6f60737a5777695d7e78b65&token=cpn-androidmpro-0-20415-b6774b3b3249db1714f6a26ef1f3033367889a4abcf8fd1f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 group-title="电影轮播,#genre#",斗鱼直播-开心麻花经典小品
-http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-#EXTINF:-1 group-title="电影轮播,#genre#",斗鱼电影2
-http://allinone.netsite.cc/douyu/6140589
-#EXTINF:-1 group-title="电影轮播,#genre#",神乐影院-1台
-https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-#EXTINF:-1 group-title="电影轮播,#genre#",神乐影院-2台
-https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-#EXTINF:-1 group-title="电影轮播,#genre#",大吉大利影院
-https://pull.kktv8.com/livekktv/128600025.flv
-#EXTINF:-1 group-title="电影轮播,#genre#",吃米滴虫✔原
-http://159.75.85.63:35455/douyu/315457
-#EXTINF:-1 group-title="电影轮播,#genre#",冰冰经典✔原
-http://159.75.85.63:35455/douyu/74374
-#EXTINF:-1 group-title="电影轮播,#genre#",星爷影院✔原
-http://159.75.85.63:35455/douyu/508118
-#EXTINF:-1 group-title="电影轮播,#genre#",凌儿影院✔原
-http://159.75.85.63:35455/douyu/1377142
-#EXTINF:-1 group-title="电影轮播,#genre#",瑶瑶恐怖✔原
-http://159.75.85.63:35455/douyu/2935323
-#EXTINF:-1 group-title="电影轮播,#genre#",怡寶影院✔原
-http://159.75.85.63:35455/douyu/434971
-#EXTINF:-1 group-title="电影轮播,#genre#",小黛兮影✔原
-http://159.75.85.63:35455/douyu/11553944
-#EXTINF:-1 group-title="电影轮播,#genre#",萌小鬼片✔原
-http://159.75.85.63:35455/douyu/3928
-#EXTINF:-1 group-title="电影轮播,#genre#",神乐影剧✔原
-http://159.75.85.63:35455/douyu/122402
-#EXTINF:-1 group-title="电影轮播,#genre#",可乐影院✔原
-http://159.75.85.63:35455/douyu/20415
-#EXTINF:-1 group-title="电影轮播,#genre#",小宇60帧✔原
-http://159.75.85.63:35455/douyu/323876
-#EXTINF:-1 group-title="电影轮播,#genre#",恐怖惊悚✔原
-http://159.75.85.63:35455/douyu/96577
-#EXTINF:-1 group-title="电影轮播,#genre#",電影劇場✔原
-http://159.75.85.63:35455/douyu/7575350
-#EXTINF:-1 group-title="电影轮播,#genre#",豆瓣高分✔原
-http://159.75.85.63:35455/douyu/8770422
-#EXTINF:-1 group-title="电影轮播,#genre#",花卷陪看✔原
-http://159.75.85.63:35455/douyu/52787
-#EXTINF:-1 group-title="电影轮播,#genre#",漫威剧情✔原
-http://159.75.85.63:35455/douyu/6140589
-#EXTINF:-1 group-title="电影轮播,#genre#",霍格沃茨✔原
-http://159.75.85.63:35455/douyu/8814650
-#EXTINF:-1 group-title="电影轮播,#genre#",鱼宝恐怖✔原
-http://159.75.85.63:35455/douyu/1165374
-#EXTINF:-1 group-title="电影轮播,#genre#",吃奶滴虫✔原
-http://159.75.85.63:35455/douyu/263824
-#EXTINF:-1 group-title="电影轮播,#genre#",变种人片✔原
-http://159.75.85.63:35455/douyu/9651304
-#EXTINF:-1 group-title="电影轮播,#genre#",喜剧电影✔原
-http://159.75.85.63:35455/douyu/9292492
-#EXTINF:-1 group-title="电影轮播,#genre#",女神电影✔原
-http://159.75.85.63:35455/douyu/747764
-#EXTINF:-1 group-title="电影轮播,#genre#",避风影院✔原
-http://159.75.85.63:35455/douyu/9826611
-#EXTINF:-1 group-title="电影轮播,#genre#",欧美大片✔原
-http://159.75.85.63:35455/douyu/2793084
-#EXTINF:-1 group-title="电影轮播,#genre#",贝爷max✔原
-http://159.75.85.63:35455/douyu/4332
-#EXTINF:-1 group-title="电影轮播,#genre#",贝爷影厅✔原
-http://159.75.85.63:35455/douyu/252802
-#EXTINF:-1 group-title="电影轮播,#genre#",凌儿影院✔原
-http://maomao.kandiantv.cn/douyu1.php?id=1377142
-#EXTINF:-1 group-title="电影轮播,#genre#",小宇60帧✔原
-http://maomao.kandiantv.cn/douyu1.php?id=323876
-#EXTINF:-1 group-title="电影轮播,#genre#",恐怖惊悚✔原
-http://maomao.kandiantv.cn/douyu1.php?id=96577
-#EXTINF:-1 group-title="电影轮播,#genre#",電影劇場✔原
-http://maomao.kandiantv.cn/douyu1.php?id=7575350
-#EXTINF:-1 group-title="电影轮播,#genre#",豆瓣高分✔原
-http://maomao.kandiantv.cn/douyu1.php?id=8770422
-#EXTINF:-1 group-title="电影轮播,#genre#",花卷陪看✔原
-http://maomao.kandiantv.cn/douyu1.php?id=52787
-#EXTINF:-1 group-title="电影轮播,#genre#",漫威剧情✔原
-http://maomao.kandiantv.cn/douyu1.php?id=6140589
-#EXTINF:-1 group-title="电影轮播,#genre#",霍格沃茨✔原
-http://maomao.kandiantv.cn/douyu1.php?id=8814650
-#EXTINF:-1 group-title="电影轮播,#genre#",鱼宝恐怖✔原
-http://maomao.kandiantv.cn/douyu1.php?id=1165374
-#EXTINF:-1 group-title="电影轮播,#genre#",吃奶滴虫✔原
-http://maomao.kandiantv.cn/douyu1.php?id=263824
-#EXTINF:-1 group-title="电影轮播,#genre#",变种人片✔原
-http://maomao.kandiantv.cn/douyu1.php?id=9651304
-#EXTINF:-1 group-title="电影轮播,#genre#",喜剧电影✔原
-http://maomao.kandiantv.cn/douyu1.php?id=9292492
-#EXTINF:-1 group-title="电影轮播,#genre#",女神电影✔原
-http://maomao.kandiantv.cn/douyu1.php?id=747764
-#EXTINF:-1 group-title="电影轮播,#genre#",欧美大片✔原
-http://maomao.kandiantv.cn/douyu1.php?id=2793084
-#EXTINF:-1 group-title="电影轮播,#genre#",贝爷影厅✔原
-http://maomao.kandiantv.cn/douyu1.php?id=252802
 #EXTINF:-1 group-title="iHOT系列,#genre#",iHOT爱院线
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 group-title="iHOT系列,#genre#",iHOT爱科幻
