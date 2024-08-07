@@ -3009,4 +3009,4 @@ TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 
 ☎️后台管理,#genre#
 后台维护请联系,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-QQ305362952,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+扫码添加微信群,https://mi.gx10086.us.kg/file/fa191da5855d182cd4910.jpg
