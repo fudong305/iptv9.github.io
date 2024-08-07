@@ -779,206 +779,106 @@ http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 #EXTINF:-1 group-title="浙江频道(IPV4),#genre#",龙游生活娱乐频道
 https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-1 综合（高清）
-http://110.189.102.15:9901/tsfile/live/0001_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-2 财经（高清）
-http://110.189.102.15:9901/tsfile/live/0002_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-3 综艺（高清）
-http://110.189.102.15:9901/tsfile/live/0003_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-4 中文国际（高清）
-http://110.189.102.15:9901/tsfile/live/0004_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-5 体育（高清）
-http://110.189.102.15:9901/tsfile/live/0005_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-6 电影（高清）
-http://110.189.102.15:9901/tsfile/live/0006_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-7 国防军事（高清）
-http://110.189.102.15:9901/tsfile/live/0007_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-8 电视剧（高清）
-http://110.189.102.15:9901/tsfile/live/0008_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-9 纪录（高清）
-http://110.189.102.15:9901/tsfile/live/0009_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-10 科教（高清）
-http://110.189.102.15:9901/tsfile/live/0010_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-11 戏曲（高清）
-http://110.189.102.15:9901/tsfile/live/0011_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-12 社会与法（高清）
-http://110.189.102.15:9901/tsfile/live/0012_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-13 新闻（高清）
-http://110.189.102.15:9901/tsfile/live/0013_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-14 少儿（高清）
-http://110.189.102.15:9901/tsfile/live/0014_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-15 音乐（高清）
-http://110.189.102.15:9901/tsfile/live/0015_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-5+ 体育赛事（高清）
-http://110.189.102.15:9901/tsfile/live/0016_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",北京卫视（高清）
-http://110.189.102.15:9901/tsfile/live/0017_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",江苏卫视（高清）
-http://110.189.102.15:9901/tsfile/live/0018_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",东方卫视（高清）
-http://110.189.102.15:9901/tsfile/live/0019_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",深圳卫视（高清）
-http://110.189.102.15:9901/tsfile/live/1000_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",湖南卫视（高清）
-http://110.189.102.15:9901/tsfile/live/1001_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",浙江卫视（高清）
-http://110.189.102.15:9901/tsfile/live/1002_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",山东卫视（高清）
-http://110.189.102.15:9901/tsfile/live/1003_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",东南卫视（高清）
-http://110.189.102.15:9901/tsfile/live/1004_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",安徽卫视（高清）
-http://110.189.102.15:9901/tsfile/live/1005_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",贵州卫视（高清）
-http://110.189.102.15:9901/tsfile/live/0128_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",天津卫视（高清）
-http://110.189.102.15:9901/tsfile/live/0124_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",湖北卫视（高清）
-http://110.189.102.15:9901/tsfile/live/0127_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",重庆卫视（高清）
-http://110.189.102.15:9901/tsfile/live/0107_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",云南卫视
-http://110.189.102.15:9901/tsfile/live/0130_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",江西卫视（高清）
-http://110.189.102.15:9901/tsfile/live/0122_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",广西卫视
-http://110.189.102.15:9901/tsfile/live/0135_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",广东卫视（高清）
-http://110.189.102.15:9901/tsfile/live/0131_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-1
+http://118.122.2.29:9999/hls/1/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-2
+http://118.122.2.29:9999/hls/2/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-3
+http://118.122.2.29:9999/hls/3/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-4
+http://118.122.2.29:9999/hls/4/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-5
+http://118.122.2.29:9999/hls/5/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-6
+http://118.122.2.29:9999/hls/6/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-7
+http://118.122.2.29:9999/hls/7/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-8
+http://118.122.2.29:9999/hls/8/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-9
+http://118.122.2.29:9999/hls/9/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-10
+http://118.122.2.29:9999/hls/10/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-11
+http://118.122.2.29:9999/hls/11/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-12
+http://118.122.2.29:9999/hls/12/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-13
+http://118.122.2.29:9999/hls/13/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-14
+http://118.122.2.29:9999/hls/14/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-15
+http://118.122.2.29:9999/hls/15/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CCTV-16
+http://118.122.2.29:9999/hls/16/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",广东卫视
+http://118.122.2.29:9999/hls/25/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",山东卫视
+http://118.122.2.29:9999/hls/26/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",江西卫视
+http://118.122.2.29:9999/hls/28/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",东南卫视
+http://118.122.2.29:9999/hls/29/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",黑龙江卫视
+http://118.122.2.29:9999/hls/30/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",重庆卫视
+http://118.122.2.29:9999/hls/31/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",贵州卫视
+http://118.122.2.29:9999/hls/32/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",湖北卫视
+http://118.122.2.29:9999/hls/33/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",河北卫视
+http://118.122.2.29:9999/hls/34/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",辽宁卫视
+http://118.122.2.29:9999/hls/35/index.m3u8
 #EXTINF:-1 group-title="四川电信(IPV4),#genre#",河南卫视
-http://110.189.102.15:9901/tsfile/live/0138_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",黑龙江卫视（高清）
-http://110.189.102.15:9901/tsfile/live/0126_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",吉林卫视(高清)
-http://110.189.102.15:9901/tsfile/live/0132_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",陕西卫视
-http://110.189.102.15:9901/tsfile/live/0121_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",宁夏卫视
-http://110.189.102.15:9901/tsfile/live/0120_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",内蒙古卫视
-http://110.189.102.15:9901/tsfile/live/0123_1.m3u8?key=txiptv
+http://118.122.2.29:9999/hls/36/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",广西卫视
+http://118.122.2.29:9999/hls/37/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",康巴卫视
+http://118.122.2.29:9999/hls/39/index.m3u8
 #EXTINF:-1 group-title="四川电信(IPV4),#genre#",山西卫视
-http://110.189.102.15:9901/tsfile/live/0139_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",甘肃卫视
-http://110.189.102.15:9901/tsfile/live/0119_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",四川卫视（高清）
-http://110.189.102.15:9901/tsfile/live/0142_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",SCTV-4 四川新闻 （高清）
-http://110.189.102.15:9901/tsfile/live/0117_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",SCTV-5 四川影视（高清）
-http://110.189.102.15:9901/tsfile/live/0137_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",峨眉新闻
-http://110.189.102.15:9901/tsfile/live/0113_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",乐山综合
-http://110.189.102.15:9901/tsfile/live/0116_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",乐山公共
-http://110.189.102.15:9901/tsfile/live/0136_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",峨眉电影（高清）
-http://110.189.102.15:9901/tsfile/live/0118_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CHC 家庭影院（高清）
-http://110.189.102.15:9901/tsfile/live/0109_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川电信(IPV4),#genre#",CGTN
-http://110.189.102.15:9901/tsfile/live/0140_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",CCTV-1 综合（高清）
-http://110.189.102.15:9901/tsfile/live/0001_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",CCTV-2 财经（高清）
-http://110.189.102.15:9901/tsfile/live/0002_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",CCTV-3 综艺（高清）
-http://110.189.102.15:9901/tsfile/live/0003_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",CCTV-4 中文国际（高清）
-http://110.189.102.15:9901/tsfile/live/0004_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",CCTV-5 体育（高清）
-http://110.189.102.15:9901/tsfile/live/0005_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",CCTV-6 电影（高清）
-http://110.189.102.15:9901/tsfile/live/0006_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",CCTV-7 国防军事（高清）
-http://110.189.102.15:9901/tsfile/live/0007_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",CCTV-8 电视剧（高清）
-http://110.189.102.15:9901/tsfile/live/0008_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",CCTV-9 纪录（高清）
-http://110.189.102.15:9901/tsfile/live/0009_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",CCTV-10 科教（高清）
-http://110.189.102.15:9901/tsfile/live/0010_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",CCTV-11 戏曲（高清）
-http://110.189.102.15:9901/tsfile/live/0011_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",CCTV-12 社会与法（高清）
-http://110.189.102.15:9901/tsfile/live/0012_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",CCTV-13 新闻（高清）
-http://110.189.102.15:9901/tsfile/live/0013_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",CCTV-14 少儿（高清）
-http://110.189.102.15:9901/tsfile/live/0014_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",CCTV-15 音乐（高清）
-http://110.189.102.15:9901/tsfile/live/0015_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",CCTV-5+ 体育赛事（高清）
-http://110.189.102.15:9901/tsfile/live/0016_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",北京卫视（高清）
-http://110.189.102.15:9901/tsfile/live/0017_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",江苏卫视（高清）
-http://110.189.102.15:9901/tsfile/live/0018_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",东方卫视（高清）
-http://110.189.102.15:9901/tsfile/live/0019_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",深圳卫视（高清）
-http://110.189.102.15:9901/tsfile/live/1000_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",湖南卫视（高清）
-http://110.189.102.15:9901/tsfile/live/1001_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",浙江卫视（高清）
-http://110.189.102.15:9901/tsfile/live/1002_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",山东卫视（高清）
-http://110.189.102.15:9901/tsfile/live/1003_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",东南卫视（高清）
-http://110.189.102.15:9901/tsfile/live/1004_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",安徽卫视（高清）
-http://110.189.102.15:9901/tsfile/live/1005_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",贵州卫视（高清）
-http://110.189.102.15:9901/tsfile/live/0128_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",天津卫视（高清）
-http://110.189.102.15:9901/tsfile/live/0124_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",湖北卫视（高清）
-http://110.189.102.15:9901/tsfile/live/0127_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",重庆卫视（高清）
-http://110.189.102.15:9901/tsfile/live/0107_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",云南卫视
-http://110.189.102.15:9901/tsfile/live/0130_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",江西卫视（高清）
-http://110.189.102.15:9901/tsfile/live/0122_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",广西卫视
-http://110.189.102.15:9901/tsfile/live/0135_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",广东卫视（高清）
-http://110.189.102.15:9901/tsfile/live/0131_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",河南卫视
-http://110.189.102.15:9901/tsfile/live/0138_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",黑龙江卫视（高清）
-http://110.189.102.15:9901/tsfile/live/0126_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",吉林卫视(高清)
-http://110.189.102.15:9901/tsfile/live/0132_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",陕西卫视
-http://110.189.102.15:9901/tsfile/live/0121_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",宁夏卫视
-http://110.189.102.15:9901/tsfile/live/0120_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",内蒙古卫视
-http://110.189.102.15:9901/tsfile/live/0123_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",山西卫视
-http://110.189.102.15:9901/tsfile/live/0139_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",甘肃卫视
-http://110.189.102.15:9901/tsfile/live/0119_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",四川卫视（高清）
-http://110.189.102.15:9901/tsfile/live/0142_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",SCTV-4 四川新闻 （高清）
-http://110.189.102.15:9901/tsfile/live/0117_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",SCTV-5 四川影视（高清）
-http://110.189.102.15:9901/tsfile/live/0137_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",峨眉新闻
-http://110.189.102.15:9901/tsfile/live/0113_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",乐山综合
-http://110.189.102.15:9901/tsfile/live/0116_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",乐山公共
-http://110.189.102.15:9901/tsfile/live/0136_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",峨眉电影（高清）
-http://110.189.102.15:9901/tsfile/live/0118_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",CHC 家庭影院（高清）
-http://110.189.102.15:9901/tsfile/live/0109_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="四川乐山(IPV4),#genre#",CGTN
-http://110.189.102.15:9901/tsfile/live/0140_1.m3u8?key=txiptv
+http://118.122.2.29:9999/hls/40/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",陕西卫视
+http://118.122.2.29:9999/hls/41/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",内蒙古卫视
+http://118.122.2.29:9999/hls/42/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",青海卫视
+http://118.122.2.29:9999/hls/43/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",宁夏卫视
+http://118.122.2.29:9999/hls/44/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",西藏卫视
+http://118.122.2.29:9999/hls/45/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",新疆卫视
+http://118.122.2.29:9999/hls/46/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",彝语综合
+http://118.122.2.29:9999/hls/47/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",海南卫视
+http://118.122.2.29:9999/hls/48/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",峨眉电影
+http://118.122.2.29:9999/hls/49/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",金鹰卡通
+http://118.122.2.29:9999/hls/50/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",凉山新闻
+http://118.122.2.29:9999/hls/51/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",四川文化旅游
+http://118.122.2.29:9999/hls/52/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",四川影视文化
+http://118.122.2.29:9999/hls/53/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",四川科教
+http://118.122.2.29:9999/hls/54/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",四川乡村
+http://118.122.2.29:9999/hls/55/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",炫动卡通
+http://118.122.2.29:9999/hls/56/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",上海纪实
+http://118.122.2.29:9999/hls/57/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",金鹰纪实
+http://118.122.2.29:9999/hls/58/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",华语电影
+http://118.122.2.29:9999/hls/59/index.m3u8
+#EXTINF:-1 group-title="四川电信(IPV4),#genre#",全球大片
+http://118.122.2.29:9999/hls/60/index.m3u8
 #EXTINF:-1 group-title="上海频道(IPV6),#genre#",东方财经
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 group-title="上海频道(IPV6),#genre#",第一财经
