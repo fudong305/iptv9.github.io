@@ -915,6 +915,56 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
 #EXTINF:-1 group-title="上海频道(IPV6),#genre#",央视高网
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
+#EXTINF:-1 group-title="江苏频道(IPV4),#genre#",江宁电视台综合频道
+https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
+#EXTINF:-1 group-title="江苏频道(IPV4),#genre#",赣榆新闻综合频道
+http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8
+#EXTINF:-1 group-title="江苏频道(IPV4),#genre#",沛县新闻综合频道
+http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8
+#EXTINF:-1 group-title="江苏频道(IPV4),#genre#",睢宁综合频道
+http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8
+#EXTINF:-1 group-title="江苏频道(IPV4),#genre#",睢宁生活教育频道
+http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsh.m3u8
+#EXTINF:-1 group-title="江苏频道(IPV4),#genre#",睢宁三农频道
+http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8
+#EXTINF:-1 group-title="江苏频道(IPV4),#genre#",睢宁资讯频道
+http://suining-tv-hls.cm.jstv.com/suining-tv/suiningys.m3u8
+#EXTINF:-1 group-title="江苏频道(IPV4),#genre#",如东一套新闻综合频道
+http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
+#EXTINF:-1 group-title="江苏频道(IPV4),#genre#",海安新闻综合频道
+http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8
+#EXTINF:-1 group-title="江苏频道(IPV4),#genre#",泗洪新闻综合频道
+http://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8
+#EXTINF:-1 group-title="江苏频道(IPV4),#genre#",沭阳综合频道
+http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+#EXTINF:-1 group-title="江苏频道(IPV4),#genre#",泗阳综合频道
+http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
+#EXTINF:-1 group-title="江苏频道(IPV4),#genre#",泗阳资讯频道
+http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
+#EXTINF:-1 group-title="江苏频道(IPV4),#genre#",淮安公共频道
+http://live1.habctv.com/ggpdsl/sd/live.m3u8
+#EXTINF:-1 group-title="江苏频道(IPV4),#genre#",涟水电视台综合频道
+http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
+#EXTINF:-1 group-title="江苏频道(IPV4),#genre#",泰州一套新闻综合频道
+http://stream1.mytaizhou.net/xwzh/playlist.m3u8?_upt=28b176e81721800937
+#EXTINF:-1 group-title="江苏频道(IPV4),#genre#",泰州三套影视娱乐频道
+http://stream1.mytaizhou.net/ysyl/playlist.m3u8?_upt=ec9eeb0c1721800949
+#EXTINF:-1 group-title="江苏频道(IPV4),#genre#",姜堰新闻综合频道
+https://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8
+#EXTINF:-1 group-title="江苏频道(IPV4),#genre#",扬州新闻频道
+http://cm-wshls.homecdn.com/live/8bb.m3u8
+#EXTINF:-1 group-title="江苏频道(IPV4),#genre#",扬州城市频道
+http://cm-wshls.homecdn.com/live/8bd.m3u8
+#EXTINF:-1 group-title="江苏频道(IPV4),#genre#",扬州生活频道
+http://cm-wshls.homecdn.com/live/8bf.m3u8
+#EXTINF:-1 group-title="江苏频道(IPV4),#genre#",扬州邗江频道
+http://cm-wshls.homecdn.com/live/8c3.m3u8
+#EXTINF:-1 group-title="江苏频道(IPV4),#genre#",高邮一套新闻综合频道
+http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
+#EXTINF:-1 group-title="江苏频道(IPV4),#genre#",镇江新闻综合频道
+http://cm-wshls.homecdn.com/live/2aa50.m3u8
+#EXTINF:-1 group-title="江苏频道(IPV4),#genre#",镇江二套社会民生频道
+http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 #EXTINF:-1 group-title="北京国信(IPV4),#genre#",CCTV1高清
 http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="北京国信(IPV4),#genre#",CCTV2高清
@@ -5695,5 +5745,5 @@ http://hatu-video.oss-cn-hangzhou.aliyuncs.com/live-stream/20111114W.m3u8
 https://livefr.cgtn.com/1000f/prog_index.m3u8
 #EXTINF:-1 group-title="☎️后台管理,#genre#",后台维护请联系
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-#EXTINF:-1 group-title="☎️后台管理,#genre#",QQ305362952
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 group-title="☎️后台管理,#genre#",扫码添加微信群
+https://mi.gx10086.us.kg/file/ea153c1ccde21ea7b9805.mp4
