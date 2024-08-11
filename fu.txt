@@ -27,7 +27,6 @@ CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 
 
 卫视频道(IPV6),#genre#
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 北京卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 东方卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 天津卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
@@ -77,7 +76,7 @@ CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 
 
@@ -2801,25 +2800,20 @@ DJ打碟Toquinho,https://vd4.bdstatic.com/mda-ncn8353qdj4250ga/sc/cae_h264_delog
 
 
 
-VIP频道_188,#genre#
+VIP频道1_188,#genre#
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文台,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
-澳亚卫视,http://live.mastvnet.com:800/4rlff1m/live.m3u8
-澳亚卫视,http://live.mastvnet.com:800/4rlff1m/a/live.m3u8
-澳亚卫视,http://live.mastvnet.com:800/4rlff1m/1024/live.m3u8
 大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 民视新闻 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻 HD,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民视新闻 HD,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻 HD,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 台视新闻 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台视新闻 HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台视新闻 HD,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视新闻 HD,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻 HD,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
@@ -2830,7 +2824,6 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 時尚台FTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 時尚台FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-時尚台FTV4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
@@ -2879,13 +2872,10 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-精彩影视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000063
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 中華小當家,http://61.221.215.25:8800/hls/40/index.m3u8
 日本新闻世界,http://61.221.215.25:8800/hls/51/index.m3u8
-中天新闻,http://194.87.101.118/live.m3u8?c=7
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 香港 卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 TVB无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83
@@ -3033,6 +3023,195 @@ TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 欧洲华文教育,http://hatu-video.oss-cn-hangzhou.aliyuncs.com/live-stream/20111114W.m3u8
 欧洲华文8套,https://livefr.cgtn.com/1000f/prog_index.m3u8
+
+
+
+VIP频道2_188,#genre#
+KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
+阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+KBS1,https://code.vthanhtivi.pw/getlink/kbs/60_11/playlist.m3u8
+NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+nhkworld,https://bmcc.nhkworld.jp/live/index_1M.m3u8
+NTVNews24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+NHKWorldPremium,https://cdn1.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+ShopChannel,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+映画,http://142.171.31.242:5002/cs14.m3u8?token=guoziyun&gid=cs14&channel=zhongying
+NHKBS1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
+NHKBSプレミアム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
+BS日テレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
+BS朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
+BS-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
+BSテレ東,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
+BSフジ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
+WOWOWプライム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+WOWOWライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+WOWOWシネマ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+スターチャンネル1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=10&bind=0&uin=159413&playseek=0
+BSアニマックス,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
+JSports1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+JSports2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+JSports3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+JSports4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+日本映画専門ch"tvg-logo="https://i.imgur.com/vMtPnYi.png"group-title="BS
+BSアニマックス,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BSテレ东,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+GAORA,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+LaLaTV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+MusicONTV!,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHKBS1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHK教育,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHK総合,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+WOWOWシネマ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+WOWOWプライム,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+キッズステーション[1024*576[1024*5,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ゴルフネットワーク,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+スーパー!ドラマTV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+スカイA,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+スターチャンネル1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+スターチャンネル2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+スターチャンネル3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+チャンネル银河,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+テレビ朝日,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+テレビ东京,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ファミリー剧场,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+フジテレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ホームドラマチャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ムービープラス,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+钓りビジョン,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+歌谣ポップスチャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日テレNEWS24,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日テレジータス,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日本テレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+时代剧専门チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+囲碁?将棋チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+bs01,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+bs02,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+bs03,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+bs04,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+bs05,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+bs06,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+bs07,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+bs08,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+bs11,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+bs12,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+bs14,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+bs15,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+bs18,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+bs19,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+bs20,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+bs21,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+bs22,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+迪士尼,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+bs25,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+bs26,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+bs31,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
+cs01,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+cs02,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+cs03,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+cs04,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+cs05,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
+cs06,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+cs07,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+cs08,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+cs09,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
+cs10,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+cs11,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+cs12,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
+cs13,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+cs14,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+cs15,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+cs16,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+cs17,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+cd18,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+cs19,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
+cs20,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+cs21,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+cs22,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+cs23,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+cs24,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
+cs26,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+cs28,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+cs29,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+gx01,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+gx02,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+gx03,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
+gx04,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+gx05,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
+gx06,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+gx07,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+テレビ朝日,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+時代劇専門,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+女性チャンネルLaLaTV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+チャンネル銀河,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Action,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+FOX,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+MusicJapan,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS323&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+FOX5,https://lnc-wnyw.tubi.video/index.m3u8
+FOXNEWS,https://lnc-kcpq.tubi.video/index_3.m3u8
+TM1,http://69.64.57.208/tm1/playlist.m3u8
+TM2,http://69.64.57.208/tm2/playlist.m3u8
+NCI,http://69.64.57.208/nci/playlist.m3u8
+2STV,http://69.64.57.208/2stv/playlist.m3u8
+TFM,http://69.64.57.208/tfm/playlist.m3u8
+RTB,http://69.64.57.208/rtb/playlist.m3u8
+RTFRANCE,http://69.64.57.208/rtfrance/playlist.m3u8
+ATV,http://69.64.57.208/atv/playlist.m3u8
+KTO,http://69.64.57.208/kto/playlist.m3u8
+RUSSIATODAY,http://69.64.57.208/russiatoday/playlist.m3u8
+FRANCE2,http://69.64.57.208/france2/playlist.m3u8
+FRANCE5,http://69.64.57.208/france5/playlist.m3u8
+IGITV,http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+RussiaToday,https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+Redcams,https://camcity.redcom.ru/Redcams/index.m3u8
+3ABN,https://hls.tv.3angels.ru/stream/HQ.m3u8
+Мир24,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+Субботаorighttp://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/9103/index.m3u8
+req,https://streaming101.goodstream.cyou/live/748-req_offset_28000000-req_window_0-1k_v5.m3u8
+ПриключенияHD,http://cdn.klimedia.space/lb/HD_Teletr/index.m3u8?token=klimedia.space:a2RzYWdmeTlhNjprZHNhZ2Z5OWE2
+РусскаяКомедия,http://aa7bc0b4.akadatel.com/iptv/ED8DTMPASXMV7Q/733/index.m3u8
+MMHoneyHD,http://aa7bc0b4.akadatel.com/iptv/ED8DTMPASXMV7Q/13026/index.m3u8
+РусскаяКомедия,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/733/index.m3u8
+БелРос,http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+Вместе-РФHD,http://vmesterf.bonus-tv.ru/cdn/vmesterf/tracks-v1a1/index.m3u8
+Енисей,http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+КТК,http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+РБКТВ,http://92.50.128.180/utv/1358/index.m3u8
+ZEENEWS,https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+bollywood,https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
+EpicTv,https://epiconvh.s.llnwi.net/epic/master.m3u8
+Nazara,https://epiconvh.s.llnwi.net/nazara/master_480.m3u8
+DDNational,https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
+ZEEHINDUSTAN,https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
+TV9BHARATVARSH,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
+ColorsHD,http://119.156.26.155:8000/play/a06w
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
+colorsINFINITYHD,http://119.156.26.155:8000/play/a07h
+PRIVEHD,http://119.156.26.155:8000/play/a07j
+flixHD,http://119.156.26.155:8000/play/a06x
+ZEEBOLLYWOOD,http://119.156.26.155:8000/play/a07q
+UTVACTION,http://119.156.26.155:8000/play/a07o
+UTVMOVIES,http://119.156.26.155:8000/play/a07n
+StarPlusHD,http://119.156.26.155:8000/play/a06u
+SONYMAX2,http://119.156.26.155:8000/play/a07r
+Pogo,http://119.156.26.155:8000/play/a05z
+MOVIENOW,http://119.156.26.155:8000/play/a066
+BTV,http://118.107.85.4:1935/live/smil:BTV.smil/playlist.m3u8
+KienGiangTV,http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+VOVTV,https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
+FreshNews,http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
+TVBThai,https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8
+TVBThai,https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8?
+มังกร,http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+MVLAO,https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
+Boomeranghttps://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
+TVBThai,https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w68863317.m3u8
+TRT1,https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 
 
 
