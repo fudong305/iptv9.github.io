@@ -27,9 +27,6 @@ CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 
 
 卫视频道(IPV6),#genre#
-鳳凰香港,https://stream1.freetv.fun/700ea6400ee9b3b005ff77288979e7b1333837e2f1366bb27dacff11435cd72f.ctv
-凤凰中文,https://stream1.freetv.fun/187fc4ccaf9c165a666ded9167cfbbdd157f5775f47f1ac318ebb4662478cee8.ctv
-凤凰资讯,https://stream1.freetv.fun/b5b79701a12aeeffb2adb737a5a4c73000d9adad96ac27a4fca994f6f828d764.m3u8
 北京卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 东方卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 天津卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
@@ -79,6 +76,9 @@ CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+鳳凰香港,https://stream1.freetv.fun/700ea6400ee9b3b005ff77288979e7b1333837e2f1366bb27dacff11435cd72f.ctv
+凤凰中文,https://stream1.freetv.fun/187fc4ccaf9c165a666ded9167cfbbdd157f5775f47f1ac318ebb4662478cee8.ctv
+凤凰资讯,https://stream1.freetv.fun/b5b79701a12aeeffb2adb737a5a4c73000d9adad96ac27a4fca994f6f828d764.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 
