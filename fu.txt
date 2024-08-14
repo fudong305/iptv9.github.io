@@ -220,7 +220,8 @@ NewTV金牌综艺,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLT
 电影轮播(IPV4),#genre#
 成龙,http://zby.xjqxz.top/cldy/live.m3u8
 周星驰,http://zby.xjqxz.top/live12/live.m3u8
-李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
+李连杰,http://zby.xjqxz.top/lljdy/live.m3u8.
+刘德华,https://stream1.freetv.fun/7beb142ac0e042f1fe010898c410d88a3bd1e0fd260a34d50a08ba80dec005e4.ctv
 星光视界频道,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 重温经典卫星,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 经典宫庭频道,http://live.dxms.top:80/dwy/gtjc.php
