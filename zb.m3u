@@ -279,12 +279,12 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 https://stream1.freetv.fun/700ea6400ee9b3b005ff77288979e7b1333837e2f1366bb27dacff11435cd72f.ctv
 #EXTINF:-1 group-title="央卫综合(IPV4),#genre#",凤凰中文
 https://stream1.freetv.fun/187fc4ccaf9c165a666ded9167cfbbdd157f5775f47f1ac318ebb4662478cee8.ctv
-#EXTINF:-1 group-title="数字频道(IPV6),#genre#",chc高清电影
-https://stream1.freetv.fun/3bcacb2ddf662037b37dee63df19deeeffab03d9025530ab692946de8d43966c.ctv
+#EXTINF:-1 group-title="数字频道(IPV6),#genre#",CHC影迷电影
+https://pi.0472.org/chc/ym.m3u8
 #EXTINF:-1 group-title="数字频道(IPV6),#genre#",CHC动作电影
-http://58.19.38.162:9901/tsfile/live/1037_1.m3u8
+https://pi.0472.org/chc/dz.m3u8
 #EXTINF:-1 group-title="数字频道(IPV6),#genre#",CHC家庭影院
-http://58.19.38.162:9901/tsfile/live/1036_1.m3u8
+https://pi.0472.org/chc/jt.m3u8
 #EXTINF:-1 group-title="数字频道(IPV6),#genre#",NewTV金牌综艺
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 #EXTINF:-1 group-title="数字频道(IPV6),#genre#",欢笑剧场
@@ -404,7 +404,9 @@ http://zby.xjqxz.top/cldy/live.m3u8
 #EXTINF:-1 group-title="电影轮播(IPV4),#genre#",周星驰
 http://zby.xjqxz.top/live12/live.m3u8
 #EXTINF:-1 group-title="电影轮播(IPV4),#genre#",李连杰
-http://zby.xjqxz.top/lljdy/live.m3u8
+http://zby.xjqxz.top/lljdy/live.m3u8.
+#EXTINF:-1 group-title="电影轮播(IPV4),#genre#",刘德华
+https://stream1.freetv.fun/7beb142ac0e042f1fe010898c410d88a3bd1e0fd260a34d50a08ba80dec005e4.ctv
 #EXTINF:-1 group-title="电影轮播(IPV4),#genre#",星光视界频道
 http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 #EXTINF:-1 group-title="电影轮播(IPV4),#genre#",重温经典卫星
@@ -893,42 +895,6 @@ http://118.122.2.29:9999/hls/58/index.m3u8
 http://118.122.2.29:9999/hls/59/index.m3u8
 #EXTINF:-1 group-title="四川电信(IPV4),#genre#",全球大片
 http://118.122.2.29:9999/hls/60/index.m3u8
-#EXTINF:-1 group-title="上海频道(IPV6),#genre#",东方财经
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 group-title="上海频道(IPV6),#genre#",第一财经
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 group-title="上海频道(IPV6),#genre#",东方影视
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 group-title="上海频道(IPV6),#genre#",上海都市
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 group-title="上海频道(IPV6),#genre#",上海新综
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 group-title="上海频道(IPV6),#genre#",上海外语
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 group-title="上海频道(IPV6),#genre#",纪实人文
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 group-title="上海频道(IPV6),#genre#",五星体育
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 group-title="上海频道(IPV6),#genre#",CCTV5
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
-#EXTINF:-1 group-title="上海频道(IPV6),#genre#",CCTV5+
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
-#EXTINF:-1 group-title="上海频道(IPV6),#genre#",五星体育
-http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS
-#EXTINF:-1 group-title="上海频道(IPV6),#genre#",咪咕篮球
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 group-title="上海频道(IPV6),#genre#",咪咕足球
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 group-title="上海频道(IPV6),#genre#",精品体育
-http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 group-title="上海频道(IPV6),#genre#",拳击
-http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000430/index.m3u8?
-#EXTINF:-1 group-title="上海频道(IPV6),#genre#",风云足球
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
-#EXTINF:-1 group-title="上海频道(IPV6),#genre#",央视台球
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
-#EXTINF:-1 group-title="上海频道(IPV6),#genre#",央视高网
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
 #EXTINF:-1 group-title="江苏频道(IPV4),#genre#",江宁电视台综合频道
 https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
 #EXTINF:-1 group-title="江苏频道(IPV4),#genre#",赣榆新闻综合频道
