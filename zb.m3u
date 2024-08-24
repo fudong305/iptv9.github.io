@@ -135,18 +135,12 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #EXTINF:-1 group-title="卫视频道(IPV6),#genre#",金鹰卡通
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
-#EXTINF:-1 group-title="卫视频道(IPV6),#genre#",广东珠江
-https://stream1.freetv.fun/96ada6ada5cac508d4479ef71c9bba603572b3182feca512eb274ece30bf4180.m3u8
 #EXTINF:-1 group-title="卫视频道(IPV6),#genre#",点掌财经
 https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 #EXTINF:-1 group-title="卫视频道(IPV6),#genre#",凤凰卫视
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
 #EXTINF:-1 group-title="卫视频道(IPV6),#genre#",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="卫视频道(IPV6),#genre#",鳳凰香港
-https://stream1.freetv.fun/700ea6400ee9b3b005ff77288979e7b1333837e2f1366bb27dacff11435cd72f.ctv
-#EXTINF:-1 group-title="卫视频道(IPV6),#genre#",凤凰中文
-https://stream1.freetv.fun/187fc4ccaf9c165a666ded9167cfbbdd157f5775f47f1ac318ebb4662478cee8.ctv
 #EXTINF:-1 group-title="央卫综合(IPV4),#genre#",CCTV-1 综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 group-title="央卫综合(IPV4),#genre#",CCTV-2 财经
@@ -271,10 +265,6 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 group-title="央卫综合(IPV4),#genre#",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="央卫综合(IPV4),#genre#",鳳凰香港
-https://stream1.freetv.fun/700ea6400ee9b3b005ff77288979e7b1333837e2f1366bb27dacff11435cd72f.ctv
-#EXTINF:-1 group-title="央卫综合(IPV4),#genre#",凤凰中文
-https://stream1.freetv.fun/187fc4ccaf9c165a666ded9167cfbbdd157f5775f47f1ac318ebb4662478cee8.ctv
 #EXTINF:-1 group-title="数字频道(IPV6),#genre#",CHC影迷电影
 https://pi.0472.org/chc/ym.m3u8
 #EXTINF:-1 group-title="数字频道(IPV6),#genre#",CHC动作电影
@@ -527,7 +517,7 @@ http://maomao.kandiantv.cn/douyu1.php?id=747764
 http://maomao.kandiantv.cn/douyu1.php?id=2793084
 #EXTINF:-1 group-title="电影轮播(IPV4),#genre#",贝爷影厅✔原
 http://maomao.kandiantv.cn/douyu1.php?id=252802
-#EXTINF:-1 group-title="测试频道(IPV4),#genre#",QQ65267199
+#EXTINF:-1 group-title="测试频道(IPV4),#genre#",香港
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="测试频道(IPV4),#genre#",国冡地理野生
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8510/.m3u8
@@ -563,8 +553,6 @@ http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 group-title="测试频道(IPV4),#genre#",澳门卫星
 http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
-#EXTINF:-1 group-title="测试频道(IPV4),#genre#",面包台
-https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="测试频道(IPV4),#genre#",TVB星河
 http://r.jdshipin.com/sXuuD
 #EXTINF:-1 group-title="测试频道(IPV4),#genre#",环球电视
