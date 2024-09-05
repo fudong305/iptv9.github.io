@@ -266,7 +266,7 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 group-title="央卫综合(IPV4),#genre#",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="数字频道(IPV6),#genre#",CHC影迷电影
-http://171.110.10.10:8181/tsfile/live/1067_1.m3u8?key=txiptv
+http://219.156.49.95:9999/rtp/225.1.4.207:1260
 #EXTINF:-1 group-title="数字频道(IPV6),#genre#",CHC动作电影
 https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8
 #EXTINF:-1 group-title="数字频道(IPV6),#genre#",CHC家庭影院
@@ -577,6 +577,448 @@ https://epg.pw/stream/eefe6cb512978f2ae6655942726d3db62226f7a84f4b2a25e4bc3babaa
 https://epg.pw/stream/9e948bbd5453affbe5fe879bc1c4145203aac9b993b01e7db9b1148e40815499.m3u8
 #EXTINF:-1 group-title="数字电视(IPV4),#genre#",CCTV風雲劇場
 https://epg.pw/stream/676f4b273ee7a1b54be02b6406b73822401d0be7b04001f0e77cb0c2a88830bf.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
+http://122.246.150.139:9999/rtp/233.50.200.191:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
+http://122.246.150.139:9999/rtp/233.50.200.42:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
+http://61.130.232.196:8881/rtp/233.50.200.191:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
+http://61.130.232.196:8881/rtp/233.50.200.42:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
+http://61.130.232.37:8881/rtp/233.50.200.191:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
+http://61.130.232.37:8881/rtp/233.50.200.42:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
+http://61.130.232.37:8889/rtp/233.50.200.191:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
+http://61.130.232.37:8889/rtp/233.50.200.42:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
+http://118.249.22.122:9999/udp/239.76.253.135:9000
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
+http://115.203.255.235:58888/udp/233.50.200.191:5140
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
+http://www.lebaobei.top:6868/udp/239.255.30.50:8231
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
+http://115.203.255.235:58888/udp/233.50.200.191:5140
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰资讯
+http://122.246.150.139:9999/rtp/233.50.200.192:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰资讯
+http://61.130.232.196:8881/rtp/233.50.200.192:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰资讯
+http://115.203.255.235:58888/udp/233.50.200.192:5140
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰资讯
+http://www.lebaobei.top:6868/udp/239.255.30.70:8231
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰资讯
+http://118.249.22.122:9999/udp/239.76.253.134:9000
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰资讯
+http://115.203.255.235:58888/udp/233.50.200.192:5140
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",時尚台FTV
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",澳亚卫视
+http://59.32.97.50:9901/tsfile/live/1073_1.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",电影
+http://59.32.97.50:9901/tsfile/live/1027_1.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",电影
+http://59.32.97.50:9901/tsfile/live/1025_1.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",翡翠台
+http://59.32.97.50:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",都市剧场
+http://59.32.97.50:9901/tsfile/live/1086_1.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",AMC电影台
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",三立戏剧
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",八大戏剧
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",八大第一
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",八大综合
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",中天娱乐
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",探索亚洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",国冡地理野生
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8510/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",年代新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",年代新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",民视新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8542/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",三立新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",中天新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",纬来电影
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8579/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",东森新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰卫视
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",中天综合
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8526/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",环宇新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8547/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",壹新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",TVBS HD
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",中视
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8502/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",澳门卫星
+http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",TVB星河
+http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",TVB星河
+http://r.jdshipin.com/sXuuD
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",TVB亚洲武侠
+http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",TVB亚洲武侠
+https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",TVB娱乐新闻台
+http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",TVB娱乐新闻台
+https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",环球电视
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",澳亚卫视
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",澳门莲花
+http://php.jdshipin.com:8880/amlh.php
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",星空卫视
+http://wouu.net:9977/udp/239.93.0.156:2193
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",TVB星河
+http://r.jdshipin.com/sXuuD
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",纬来体育
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",TVBS欢乐
+http://37.27.111.214:8080/live/24/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",CMUSIC音乐台[720p]
+http://37.27.111.214:8080/live/72/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",中视经典[720p]
+http://37.27.111.214:8080/live/47/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",公视戏剧[720p]
+http://37.27.111.214:8080/live/87/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",好莱坞电影[1080p]
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8554/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",影剧[720p]
+http://37.27.111.214:8080/live/88/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",影迷[720p]
+http://37.27.111.214:8080/live/92/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",龙华戏剧[720p]
+http://37.27.111.214:8080/live/41/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",龙华电影[720p]
+http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",BLOOMBERG[720p]
+http://37.27.111.214:8080/live/34/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",CINEMAWORLD[720p]
+http://37.27.111.214:8080/live/30/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",CNBC[720p]
+http://37.27.111.214:8080/live/102/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",DWNEWS[720p]
+http://37.27.111.214:8080/live/46/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",ELTV生活英语台[720p]
+http://37.27.111.214:8080/live/56/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",FESTIVAL[720p]
+http://37.27.111.214:8080/live/83/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",GOOD2[720p]
+http://37.27.111.214:8080/live/99/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",HISTORY[720p]
+http://37.27.111.214:8080/live/27/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",HITS[720p]
+http://37.27.111.214:8080/live/28/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",KOREA[720p]
+http://37.27.111.214:8080/live/52/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",LIFETIME[720p]
+http://37.27.111.214:8080/live/71/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",LOVENATURE[720p]
+http://37.27.111.214:8080/live/84/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",LUXE[720p]
+http://37.27.111.214:8080/live/86/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",MCE[720p]
+http://37.27.111.214:8080/live/98/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",MTV[720p]
+http://37.27.111.214:8080/live/25/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",Nickelodeon[720p]
+http://37.27.111.214:8080/live/12/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",PETCLUB[720p]
+http://37.27.111.214:8080/live/81/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",ROCKACTION[720p]
+http://37.27.111.214:8080/live/94/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",ROCK[720p]
+http://37.27.111.214:8080/live/70/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",TECHSTORM[720p]
+http://37.27.111.214:8080/live/80/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",TV5MONDE[720p]
+http://37.27.111.214:8080/live/9/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",TVBSHD[1080p]
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",TVBS[720p]
+http://37.27.111.214:8080/live/23/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",TVBS欢乐台[720p]
+http://37.27.111.214:8080/live/24/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",TiTV[720p]
+http://37.27.111.214:8080/live/2/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",VOA[720p]
+http://37.27.111.214:8080/live/45/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",elta生活旅游[720p]
+http://37.27.111.214:8080/live/85/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",hokkotv[720p]
+http://37.27.111.214:8080/live/1/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",momo[720p]
+http://37.27.111.214:8080/live/3/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",三立新闻[1080p]
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",东森财经[1080p]
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",东森购物[720p]
+http://37.27.111.214:8080/live/61/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",东森购物[720p]
+http://37.27.111.214:8080/live/66/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",东森超视[720p]
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",中视[720p]
+http://37.27.111.214:8080/live/7/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",中视[720p]
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",中视青采[720p]
+http://37.27.111.214:8080/live/48/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",互动英语[720p]
+http://37.27.111.214:8080/live/54/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",亚洲卫视[1080p]
+https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",亚洲旅游[720p]
+http://37.27.111.214:8080/live/10/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰卫视[1080p]
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰卫视[1080p]
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",动漫2[720p]
+http://37.27.111.214:8080/live/106/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",动漫[720p]
+http://37.27.111.214:8080/live/105/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",動畫台[720p]
+http://37.27.111.214:8080/live/57/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",华视新闻[720p]
+http://37.27.111.214:8080/live/8/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",博斯无限[720p]
+http://37.27.111.214:8080/live/15/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",博斯网球[720p]
+http://37.27.111.214:8080/live/16/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",博斯运动1[720p]
+http://37.27.111.214:8080/live/14/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",博斯高球1[720p]
+http://37.27.111.214:8080/live/13/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",卫视西片[1080p]
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8583/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",哆啦A梦[720p]
+http://37.27.111.214:8080/live/107/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",壹新闻[1080p]
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",寰宇台湾[720p]
+http://37.27.111.214:8080/live/63/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",年代新闻[1080p]
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",幸福空间[720p]
+http://37.27.111.214:8080/live/26/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",探案台[720p]
+http://37.27.111.214:8080/live/11/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",旅游[720p]
+http://37.27.111.214:8080/live/82/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",智林体育[720p]
+http://37.27.111.214:8080/live/77/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",東森新聞[720p]
+http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",民视[720p]
+http://37.27.111.214:8080/live/6/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",民视台湾[720p]
+http://37.27.111.214:8080/live/5/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",民视第一[720p]
+http://37.27.111.214:8080/live/4/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",猪哥亮[720p]
+http://37.27.111.214:8080/live/35/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",环宇新闻[1080p]
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8547/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",环球电视[1080p]
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",电视剧2[720p]
+http://37.27.111.214:8080/live/109/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",电视剧3[720p]
+http://37.27.111.214:8080/live/111/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",电视剧[720p]
+http://37.27.111.214:8080/live/108/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",纬来日本[1080p]
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",纬来综合[1080p]
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8518/.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",纬来育乐[720p]
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",综艺[720p]
+http://37.27.111.214:8080/live/67/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",美亚C+[1080p]
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",超人[720p]
+http://37.27.111.214:8080/live/110/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",镜新闻[720p]
+http://37.27.111.214:8080/live/62/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",ELTV生活
+http://shuma004.chunfengyun.top:8080/live/56/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",CRIME
+http://shuma004.chunfengyun.top:8080/live/29/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",民視第一台
+http://shuma004.chunfengyun.top:8080/live/4/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",民視台灣台
+http://shuma004.chunfengyun.top:8080/live/5/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",龍華電影台
+http://shuma004.chunfengyun.top:8080/live/19/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",CMUSIC音樂台
+http://shuma004.chunfengyun.top:8080/live/72/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",博斯運動1
+http://shuma004.chunfengyun.top:8080/live/14/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",TVBS歡樂台
+http://shuma004.chunfengyun.top:8080/live/24/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",博斯高球1
+http://shuma004.chunfengyun.top:8080/live/13/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",博斯网球
+http://shuma004.chunfengyun.top:8080/live/16/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",東森新聞
+http://shuma004.chunfengyun.top:8080/live/20/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",亚洲旅游
+http://shuma004.chunfengyun.top:8080/live/10/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",三立综合
+http://shuma004.chunfengyun.top:8080/live/31/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",龙华日韩
+http://shuma004.chunfengyun.top:8080/live/42/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",龙华戏剧
+http://shuma004.chunfengyun.top:8080/live/41/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",中视经典
+http://shuma004.chunfengyun.top:8080/live/47/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",中视青采
+http://shuma004.chunfengyun.top:8080/live/48/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",寰宇台湾
+http://shuma004.chunfengyun.top:8080/live/63/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",公视戏剧
+http://shuma004.chunfengyun.top:8080/live/87/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",CINEMA WORLD
+http://shuma004.chunfengyun.top:8080/live/30/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",全球财经
+http://shuma004.chunfengyun.top:8080/live/64/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",華視新聞
+http://shuma004.chunfengyun.top:8080/live/8/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",互動英語
+http://shuma004.chunfengyun.top:8080/live/54/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",Nickelodeon
+http://shuma004.chunfengyun.top:8080/live/12/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",LOVE NATURE
+http://shuma004.chunfengyun.top:8080/live/84/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",ROCK ACTION
+http://shuma004.chunfengyun.top:8080/live/94/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",TECH STORM
+http://shuma004.chunfengyun.top:8080/live/80/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",电视剧3
+http://shuma004.chunfengyun.top:8080/live/111/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",哆啦A梦
+http://shuma004.chunfengyun.top:8080/live/107/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",电视剧2
+http://shuma004.chunfengyun.top:8080/live/109/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",镜新闻
+http://shuma004.chunfengyun.top:8080/live/62/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",BLOOMBERG
+http://shuma004.chunfengyun.top:8080/live/34/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",豬哥亮
+http://shuma004.chunfengyun.top:8080/live/35/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",电视剧
+http://shuma004.chunfengyun.top:8080/live/108/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",探案台
+http://shuma004.chunfengyun.top:8080/live/11/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",DW NEWS
+http://shuma004.chunfengyun.top:8080/live/46/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",HISTORY
+http://shuma004.chunfengyun.top:8080/live/27/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",hokkotv
+http://shuma004.chunfengyun.top:8080/live/1/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",民视
+http://shuma004.chunfengyun.top:8080/live/6/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",中视
+http://shuma004.chunfengyun.top:8080/live/7/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",影迷
+http://shuma004.chunfengyun.top:8080/live/92/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",超人
+http://shuma004.chunfengyun.top:8080/live/110/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",综艺
+http://shuma004.chunfengyun.top:8080/live/67/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",影剧
+http://shuma004.chunfengyun.top:8080/live/88/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",旅游
+http://shuma004.chunfengyun.top:8080/live/82/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",KOREA
+http://shuma004.chunfengyun.top:8080/live/52/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",TVBS
+http://shuma004.chunfengyun.top:8080/live/23/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",ROCK
+http://shuma004.chunfengyun.top:8080/live/70/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",HITS
+http://shuma004.chunfengyun.top:8080/live/28/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",CNBC
+http://shuma004.chunfengyun.top:8080/live/102/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",momo
+http://shuma004.chunfengyun.top:8080/live/3/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",LUXE
+http://shuma004.chunfengyun.top:8080/live/86/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",MTV
+http://shuma004.chunfengyun.top:8080/live/25/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",MCE
+http://shuma004.chunfengyun.top:8080/live/98/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",VOA
+http://shuma004.chunfengyun.top:8080/live/45/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",elta生活旅游
+http://shuma004.chunfengyun.top:8080/live/85/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",寰宇财经
+http://shuma004.chunfengyun.top:8080/live/65/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",智林体育
+http://shuma004.chunfengyun.top:8080/live/77/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",東森購物
+http://shuma004.chunfengyun.top:8080/live/66/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",人间卫视
+http://shuma004.chunfengyun.top:8080/live/101/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",幸福空間
+http://shuma004.chunfengyun.top:8080/live/26/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",東森購物
+http://shuma004.chunfengyun.top:8080/live/61/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",博斯無限
+http://shuma004.chunfengyun.top:8080/live/15/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",LIFE TIME
+http://shuma004.chunfengyun.top:8080/live/71/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",動畫台
+http://shuma004.chunfengyun.top:8080/live/57/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",TV5 MONDE
+http://shuma004.chunfengyun.top:8080/live/9/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",PET CLUB
+http://shuma004.chunfengyun.top:8080/live/81/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",FESTIVAL
+http://shuma004.chunfengyun.top:8080/live/83/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",动漫2
+http://shuma004.chunfengyun.top:8080/live/106/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",动漫
+http://shuma004.chunfengyun.top:8080/live/105/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",GOOD2
+http://shuma004.chunfengyun.top:8080/live/99/hls.m3u8
+#EXTINF:-1 group-title="港台电视(IPV4),#genre#",TiTV
+http://shuma004.chunfengyun.top:8080/live/2/hls.m3u8
 #EXTINF:-1 group-title="电影轮播(IPV4),#genre#",成龙
 http://zby.xjqxz.top/cldy/live.m3u8
 #EXTINF:-1 group-title="电影轮播(IPV4),#genre#",周星驰
@@ -767,8 +1209,6 @@ http://zb.xzxwhcb.com:9999/hls/world.m3u8
 http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 #EXTINF:-1 group-title="测试频道(IPV4),#genre#",TVB星河
 http://r.jdshipin.com/sXuuD
-#EXTINF:-1 group-title="测试频道(IPV4),#genre#",环球电视
-http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:-1 group-title="测试频道(IPV4),#genre#",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 group-title="测试频道(IPV4),#genre#",环球电视台
