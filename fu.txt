@@ -138,9 +138,6 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 延边卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-凤凰中文,http://116.162.6.192/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8
-凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 
@@ -336,14 +333,8 @@ CCTV風雲劇場,https://epg.pw/stream/676f4b273ee7a1b54be02b6406b73822401d0be7b
 凤凰资讯,http://61.130.232.196:8881/rtp/233.50.200.192:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
 凤凰资讯,http://115.203.255.235:58888/udp/233.50.200.192:5140
 凤凰资讯,http://www.lebaobei.top:6868/udp/239.255.30.70:8231
-凤凰资讯,http://118.249.22.122:9999/udp/239.76.253.134:9000
 凤凰资讯,http://115.203.255.235:58888/udp/233.50.200.192:5140
 時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-澳亚卫视,http://59.32.97.50:9901/tsfile/live/1073_1.m3u8
-电影,http://59.32.97.50:9901/tsfile/live/1027_1.m3u8
-电影,http://59.32.97.50:9901/tsfile/live/1025_1.m3u8
-翡翠台,http://59.32.97.50:9901/tsfile/live/1013_1.m3u8
-都市剧场,http://59.32.97.50:9901/tsfile/live/1086_1.m3u8
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
@@ -373,12 +364,8 @@ TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河,http://r.jdshipin.com/sXuuD
 TVB亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB亚洲武侠,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
-TVB娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-TVB娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
-环球电视,http://live.cgtn.com/500/prog_index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 TVB星河,http://r.jdshipin.com/sXuuD
@@ -867,13 +854,10 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 「江苏」姜堰新闻综合,https://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8?zjiangsd
 「江苏」金湖新闻综合,http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd
 「江苏」靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8?zjiangsd
-「江苏」南京十八,http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8?zjiangsd
-「江苏」南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8?zjiangsd
 「江苏」沛县新闻综合,http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8?zjiangsd
 「江苏」如东新闻综合,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8?zjiangsd
 「江苏」泗阳资讯频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd
 「江苏」泗阳综合频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8?zjiangsd
-「江苏」苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd
 「江苏」睢宁三农频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8?zjiangsd
 「江苏」睢宁生活教育,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsh.m3u8?zjiangsd
 「江苏」睢宁综合频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8?zjiangsd
@@ -982,116 +966,6 @@ CCTV15高清,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv
 
 
 
-
-
-广西高清(IPV4),#genre#
-珠江台高清电信,http://171.110.10.10:8181/tsfile/live/1000_1.m3u8?key=txiptv
-广东体育广电,http://171.110.10.10:8181/tsfile/live/1001_1.m3u8?key=txiptv
-广东科教高清电信,http://171.110.10.10:8181/tsfile/live/1003_1.m3u8?key=txiptv
-岭南戏曲高清dx,http://171.110.10.10:8181/tsfile/live/1005_1.m3u8?key=txiptv
-南方卫视高清dx,http://171.110.10.10:8181/tsfile/live/1002_1.m3u8?key=txiptv
-广东嘉佳卡通dx,http://171.110.10.10:8181/tsfile/live/1006_1.m3u8?key=txiptv
-广东新闻高清dx,http://171.110.10.10:8181/tsfile/live/1004_1.m3u8?key=txiptv
-广东公共高清dx,http://171.110.10.10:8181/tsfile/live/1007_1.m3u8?key=txiptv
-广东影视高清dx,http://171.110.10.10:8181/tsfile/live/1008_1.m3u8?key=txiptv
-广东少儿高清dx,http://171.110.10.10:8181/tsfile/live/1009_1.m3u8?key=txiptv
-广东体育-高清,http://171.110.10.10:8181/tsfile/live/1010_1.m3u8?key=txiptv
-CCTV5高清,http://171.110.10.10:8181/tsfile/live/1016_1.m3u8?key=txiptv
-CCTV6高清,http://171.110.10.10:8181/tsfile/live/1017_1.m3u8?key=txiptv
-CCTV8高清,http://171.110.10.10:8181/tsfile/live/1019_1.m3u8?key=txiptv
-CCTV14高清,http://171.110.10.10:8181/tsfile/live/1026_1.m3u8?key=txiptv
-CCTV15高清,http://171.110.10.10:8181/tsfile/live/1025_1.m3u8?key=txiptv
-CCTV5+高清,http://171.110.10.10:8181/tsfile/live/1028_1.m3u8?key=txiptv
-CCTV17高清,http://171.110.10.10:8181/tsfile/live/1029_1.m3u8?key=txiptv
-广西卫视高清,http://171.110.10.10:8181/tsfile/live/1030_1.m3u8?key=txiptv
-广东卫视高清,http://171.110.10.10:8181/tsfile/live/1031_1.m3u8?key=txiptv
-东方卫视高清,http://171.110.10.10:8181/tsfile/live/1033_1.m3u8?key=txiptv
-深圳卫视高清LT,http://171.110.10.10:8181/tsfile/live/1036_1.m3u8?key=txiptv
-天津卫视高清LT,http://171.110.10.10:8181/tsfile/live/1037_1.m3u8?key=txiptv
-湖北卫视高清LT,http://171.110.10.10:8181/tsfile/live/1038_1.m3u8?key=txiptv
-山东卫视高清LT,http://171.110.10.10:8181/tsfile/live/1039_1.m3u8?key=txiptv
-黑龙江卫视高清,http://171.110.10.10:8181/tsfile/live/1040_1.m3u8?key=txiptv
-河北卫视高清,http://171.110.10.10:8181/tsfile/live/1041_1.m3u8?key=txiptv
-贵州卫视高清,http://171.110.10.10:8181/tsfile/live/1042_1.m3u8?key=txiptv
-东南卫视高清,http://171.110.10.10:8181/tsfile/live/1043_1.m3u8?key=txiptv
-辽宁卫视高清-lt,http://171.110.10.10:8181/tsfile/live/1044_1.m3u8?key=txiptv
-安徽卫视高清-lt,http://171.110.10.10:8181/tsfile/live/1045_1.m3u8?key=txiptv
-四川卫视高清,http://171.110.10.10:8181/tsfile/live/1048_1.m3u8?key=txiptv
-广西综艺高清,http://171.110.10.10:8181/tsfile/live/1049_1.m3u8?key=txiptv
-重庆卫视高清,http://171.110.10.10:8181/tsfile/live/1050_1.m3u8?key=txiptv
-中国教育一套高清,http://171.110.10.10:8181/tsfile/live/1055_1.m3u8?key=txiptv
-上海纪实高清,http://171.110.10.10:8181/tsfile/live/1058_1.m3u8?key=txiptv
-吉林卫视高清,http://171.110.10.10:8181/tsfile/live/1059_1.m3u8?key=txiptv
-珠江台高清-LT,http://171.110.10.10:8181/tsfile/live/1060_1.m3u8?key=txiptv
-动作电影高清,http://171.110.10.10:8181/tsfile/live/1066_1.m3u8?key=txiptv
-CHC高清电影,http://171.110.10.10:8181/tsfile/live/1067_1.m3u8?key=txiptv
-爱上4K-g,http://171.110.10.10:8181/tsfile/live/1068_1.m3u8?key=txiptv
-茂名综合高清-g,http://171.110.10.10:8181/tsfile/live/1070_1.m3u8?key=txiptv
-茂名公共高清-g,http://171.110.10.10:8181/tsfile/live/1071_1.m3u8?key=txiptv
-海南卫视高清-g,http://171.110.10.10:8181/tsfile/live/1072_1.m3u8?key=txiptv
-XF本港台（珠江）,http://171.110.10.10:8181/tsfile/live/1073_1.m3u8?key=txiptv
-XF牛哥台,http://171.110.10.10:8181/tsfile/live/1074_1.m3u8?key=txiptv
-XF有线电的高娱乐1,http://171.110.10.10:8181/tsfile/live/1075_1.m3u8?key=txiptv
-XF有线电视娱乐2,http://171.110.10.10:8181/tsfile/live/1076_1.m3u8?key=txiptv
-XF玉林台,http://171.110.10.10:8181/tsfile/live/1077_1.m3u8?key=txiptv
-XF北流台,http://171.110.10.10:8181/tsfile/live/1078_1.m3u8?key=txiptv
-早期教育高清-g,http://171.110.10.10:8181/tsfile/live/1079_1.m3u8?key=txiptv
-XF有线电视娱乐3,http://171.110.10.10:8181/tsfile/live/1080_1.m3u8?key=txiptv
-XF有线电影,http://171.110.10.10:8181/tsfile/live/1081_1.m3u8?key=txiptv
-XF凤凰资讯高清,http://171.110.10.10:8181/tsfile/live/1082_1.m3u8?key=txiptv
-XF凤凰中文高清,http://171.110.10.10:8181/tsfile/live/1083_1.m3u8?key=txiptv
-XF凤凰香港高清,http://171.110.10.10:8181/tsfile/live/1084_1.m3u8?key=txiptv
-XF星空卫视,http://171.110.10.10:8181/tsfile/live/1085_1.m3u8?key=txiptv
-XF广州台,http://171.110.10.10:8181/tsfile/live/1086_1.m3u8?key=txiptv
-云南卫视高清-g,http://171.110.10.10:8181/tsfile/live/1092_1.m3u8?key=txiptv
-CGTN高清-g,http://171.110.10.10:8181/tsfile/live/1087_1.m3u8?key=txiptv
-兵器科技-高清,http://171.110.10.10:8181/tsfile/live/1098_1.m3u8?key=txiptv
-电视指南-高清,http://171.110.10.10:8181/tsfile/live/1099_1.m3u8?key=txiptv
-风云足球-高清,http://171.110.10.10:8181/tsfile/live/1100_1.m3u8?key=txiptv
-央视台球-高清,http://171.110.10.10:8181/tsfile/live/1101_1.m3u8?key=txiptv
-高尔夫网球-高清,http://171.110.10.10:8181/tsfile/live/1102_1.m3u8?key=txiptv
-女性时尚-高清,http://171.110.10.10:8181/tsfile/live/1103_1.m3u8?key=txiptv
-世界地理-高清,http://171.110.10.10:8181/tsfile/live/1104_1.m3u8?key=txiptv
-怀旧剧场-高清,http://171.110.10.10:8181/tsfile/live/1105_1.m3u8?key=txiptv
-风云剧场-高清,http://171.110.10.10:8181/tsfile/live/1106_1.m3u8?key=txiptv
-央视精品-高清,http://171.110.10.10:8181/tsfile/live/1107_1.m3u8?key=txiptv
-第一剧场-高清,http://171.110.10.10:8181/tsfile/live/1108_1.m3u8?key=txiptv
-风云音乐-高清,http://171.110.10.10:8181/tsfile/live/1110_1.m3u8?key=txiptv
-深圳电视剧-高清,http://171.110.10.10:8181/tsfile/live/1113_1.m3u8?key=txiptv
-少儿动画,http://171.110.10.10:8181/tsfile/live/1089_1.m3u8?key=txiptv
-北京卡酷,http://171.110.10.10:8181/tsfile/live/1091_1.m3u8?key=txiptv
-金鹰卡通,http://171.110.10.10:8181/tsfile/live/1093_1.m3u8?key=txiptv
-炫动卡通,http://171.110.10.10:8181/tsfile/live/1095_1.m3u8?key=txiptv
-CCTV13高清,http://171.110.10.10:8181/tsfile/live/1024_1.m3u8?key=txiptv
-CCTV7-军农,http://171.110.10.10:8181/tsfile/live/0007_1.m3u8?key=txiptv
-CCTV10高清,http://171.110.10.10:8181/tsfile/live/0010_1.m3u8?key=txiptv
-CCTV12高清,http://171.110.10.10:8181/tsfile/live/0012_1.m3u8?key=txiptv
-中国足协杯,http://171.110.10.10:8181/tsfile/live/1021_1.m3u8?key=txiptv
-河南卫视高清,http://171.110.10.10:8181/tsfile/live/1015_1.m3u8?key=txiptv
-CCTV3高清,http://171.110.10.10:8181/tsfile/live/1014_1.m3u8?key=txiptv
-体育赛事高清,http://171.110.10.10:8181/tsfile/live/1061_1.m3u8?key=txiptv
-CCTV11高清,http://171.110.10.10:8181/tsfile/live/1022_1.m3u8?key=txiptv
-先锋乒羽,http://171.110.10.10:8181/tsfile/live/1064_1.m3u8?key=txiptv
-新动漫,http://171.110.10.10:8181/tsfile/live/1063_1.m3u8?key=txiptv
-家庭影院高清,http://171.110.10.10:8181/tsfile/live/1056_1.m3u8?key=txiptv
-江西卫视高清,http://171.110.10.10:8181/tsfile/live/1047_1.m3u8?key=txiptv
-甘肃卫视高清,http://171.110.10.10:8181/tsfile/live/1046_1.m3u8?key=txiptv
-内蒙古卫视,http://171.110.10.10:8181/tsfile/live/0109_1.m3u8?key=txiptv
-广西影视高清,http://171.110.10.10:8181/tsfile/live/1054_1.m3u8?key=txiptv
-CCTV4-国际,http://171.110.10.10:8181/tsfile/live/0004_1.m3u8?key=txiptv
-CCTV2高清,http://171.110.10.10:8181/tsfile/live/1013_1.m3u8?key=txiptv
-广西科技,http://171.110.10.10:8181/tsfile/live/1018_1.m3u8?key=txiptv
-CCTV1高清,http://171.110.10.10:8181/tsfile/live/1012_1.m3u8?key=txiptv
-江苏卫视高清,http://171.110.10.10:8181/tsfile/live/1011_1.m3u8?key=txiptv
-北京卫视高清,http://171.110.10.10:8181/tsfile/live/1027_1.m3u8?key=txiptv
-中国气象,http://171.110.10.10:8181/tsfile/live/1137_1.m3u8?key=txiptv
-西藏卫视,http://171.110.10.10:8181/tsfile/live/0111_1.m3u8?key=txiptv
-新疆卫视,http://171.110.10.10:8181/tsfile/live/0110_1.m3u8?key=txiptv
-CCTV9高清,http://171.110.10.10:8181/tsfile/live/1020_1.m3u8?key=txiptv
-浙江卫视高清,http://171.110.10.10:8181/tsfile/live/1034_1.m3u8?key=txiptv
-湖南卫视高清,http://171.110.10.10:8181/tsfile/live/1032_1.m3u8?key=txiptv
-广西都市高清,http://171.110.10.10:8181/tsfile/live/1051_1.m3u8?key=txiptv
-广西新闻高清,http://171.110.10.10:8181/tsfile/live/1052_1.m3u8?key=txiptv
 
 
 上海电信(IPV4),#genre#
@@ -1342,7 +1216,6 @@ CCTV1,http://www.91dos.cn:4022/rtp/239.61.3.60:9878
 新乡县新闻综合频道,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
 原阳新闻综合频道,http://live.dxhmt.cn:9081/tv/10725-1.m3u8
 焦作新闻综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
-焦作睛彩频道,http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8
 沁阳新闻综合频道,http://live.dxhmt.cn:9081/tv/10882-1.m3u8
 
 
@@ -1584,7 +1457,6 @@ CCTV1,http://www.91dos.cn:4022/rtp/239.61.3.60:9878
 
 
 地方卫视1(IPV4),#genre#
-苏州4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 余姚姚江文化,https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
@@ -2528,31 +2400,20 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 维和防暴队,https://v2.fentvoss.com/sdv2/202406/13/bJ4XKX5MRW10/video/index.m3u8
 朝云暮雨,https://hn.bfvvs.com/play/xbo11jke/index.m3u8
 三叉戟,https://cdn.wlcdn99.com:777/8563340e/index.m3u8
-周处除三害,https://vip.ffzyread.com/20240301/24303_f0da8c06/2000k/hls/mixed.m3u8
 飞驰人生2,https://hn.bfvvs.com/play/RdGqPZJa/index.m3u8
-巨齿鲨2：深渊,https://vip.ffzy-online6.com/20230825/17374_134ba238/2000k/hls/index.m3u8
-海王2：失落的王国,https://vip.ffzy-online6.com/20240123/25157_083fb875/2000k/hls/index.m3u8
 流浪地球2,https://cdn16.yzzy-tv-cdn.com/20230414/7_d0737c10/2000k/hls/index.m3u8
 坚如磐石,https://vip.ffzyread1.com/20231215/22193_54dad8f9/2000k/hls/mixed.m3u8
-前任4：英年早婚,https://vip.ffzy-online6.com/20231207/22697_c067d4cf/2000k/hls/index.m3u8
 霜花店,https://cdn7.vipbf-video.com/20220626/855_22c3ae8e/1000k/hls/index.m3u8
 速度与激情9,https://cdn12.yzzy-tv1.com/20221229/12848_19dd3dd1/1000k/hls/index.m3u8
 速度与激情10,https://cdn15.yzzy-tv-cdn.com/20230610/15338_08b48b5a/2000k/hls/index.m3u8
 犯罪都市3,https://hn.bfvvs.com/play/9av00VLd/index.m3u8
-扫毒3：人在天涯,https://cdn16.yzzy-kb-cdn.com/20230809/15841_b806107c/2000k/hls/index.m3u8
-三大队电影版,https://vip.ffzy-online6.com/20240202/25627_f9c6348c/2000k/hls/index.m3u8
-零号追杀,https://v.cdnlz19.com/20230925/935_773a40f4/2000k/hls/mixed.m3u8
 犯罪都市2,https://cdn16.yzzy-tv-cdn.com/20230529/7303_6269e3bb/2000k/hls/index.m3u8
 犯罪都市3,https://cdn16.yzzy-tv-cdn.com/20230706/12634_b61faff2/2000k/hls/index.m3u8
 八仙饭店之人肉叉烧包,https://cdn7.vipbf-video.com/20220625/522_d549191f/1000k/hls/index.m3u8
 人肉叉烧包2之天诛地灭,https://cdn17.yzzy-kb-cdn.com/20230727/13350_6bb05f6c/2000k/hls/index.m3u8
 古惑仔2之猛龙过江,https://sd3.taopianplay1.com:43333/c56b1bc09da3/HD/2022-11-17/1/46ca3dfeb4d9/2493847c1aab/playlist.m3u8
-古惑仔3之只手遮天,https://cdn17.vipyz-cdn1.com/20230820/16595_19ad0c55/2000k/hls/index.m3u8
 古惑仔之人在江湖,https://sd1.taopianplay1.com:43333/c56b1bc09da3/HD/2022-09-20/1/3d74cd6519be/6dfe165b4328/playlist.m3u8
-洪兴大飞哥,https://cdn17.yzzy-kb-cdn.com/20230812/15593_819fb9b7/2000k/hls/index.m3u8
-九龙冰室,https://cdn17.yzzy-kb-cdn.com/20230812/15565_96e3cc7d/2000k/hls/index.m3u8
 扫毒2：天地对决,https://vip.lz-cdn3.com/20230809/20946_49fcdb16/2000k/hls/mixed.m3u8
-赌神,https://cdn17.yzzy-kb-cdn.com/20230730/13850_d9788cef/2000k/hls/index.m3u8
 赌神2,https://cdn10.yzzy-tv1.com/20221128/16154_b82943f4/1000k/hls/index.m3u8
 国产零零漆,https://yzzy.play-cdn2.com/20220331/4906_17d3fb9b/1000k/hls/index.m3u8
 九龙城寨之围城国语,https://v.cdnlz3.com/20240621/23931_0923f192/2000k/hls/mixed.m3u8
@@ -2560,7 +2421,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 零号追杀,https://cdn16.yzzy-kb-cdn.com/20230721/13576_28def4bc/2000k/hls/index.m3u8
 断网,https://cdn15.yzzy-tv1.com/20230331/5200_2b2b8c2a/2000k/hls/index.m3u8
 毒舌律师,https://cdn17.yzzy-tv-cdn.com/20230525/6056_d875f86f/2000k/hls/index.m3u8
-怒火·重案,https://cdn17.yzzy-kb-cdn.com/20230723/12321_ab119b30/2000k/hls/index.m3u8
 双龙会,https://yzzy.play-cdn17.com/20230821/16682_881ba66c/2000k/hls/index.m3u8
 速度与激情9,https://cdn12.yzzy-tv1.com/20221229/12848_19dd3dd1/1000k/hls/index.m3u8
 速度与激情10,https://cdn15.yzzy-tv-cdn.com/20230610/15338_08b48b5a/2000k/hls/index.m3u8
@@ -2579,7 +2439,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 🔥周公伏妖,https://v.cdnlz12.com/20240313/12832_28e8b06c/index.m3u8
 🔥少女斗恶龙,https://v.cdnlz12.com/20240308/12567_d5565b64/index.m3u8
 🔥临时劫案,https://v.cdnlz12.com/20240306/12466_cad8e71b/2000k/hls/mixed.m3u8#https://yzzy.play-cdn19.com/20240306/22153_c54de4da/2000k/hls/mixed.m3u8
-🔥周处除三害,https://vip.ffzyread.com/20240301/24303_f0da8c06/2000k/hls/mixed.m3u8
 🔥陌路狂刀,https://v.cdnlz12.com/20240308/12526_77ee2ef5/2000k/hls/mixed.m3u8#https://yzzy1.play-cdn1.com/20240308/19202_84e12afe/2000k/hls/mixed.m3u8
 🔥聊斋志异之瞳人语,https://yzzy1.play-cdn20.com/20240305/18516_cd41cda3/2000k/hls/mixed.m3u8#https://hn.bfvvs.com/play/RdGJDE0b/index.m3u8
 🔥[智利]雕形拳,https://vip1.lz-cdn1.com/20230608/21094_b12a3627/2000k/hls/mixed.m3u8
@@ -2587,8 +2446,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 第二十条TC,https://v.cdnlz12.com/20240215/11572_dda99b8e/2000k/hls/mixed.m3u8
 飞驰人生2TC,https://ikcdn01.ikzybf.com/20240212/jjCpFTXC/2000kb/hls/index.m3u8
 目中无人2,https://yzzy1.play-cdn1.com/20240210/15952_004b2a47/2000k/hls/index.m3u8
-战锋·尖峰对决,https://vip.ffzy-online6.com/20240221/26640_7e77660f/2000k/hls/index.m3u8
-惊天激战[美],https://v.cdnlz19.com/20240219/17331_1e41d0fd/2000k/hls/mixed.m3u8
 外星+人2[韩],https://v.cdnlz12.com/20240215/11573_4cb789fb/2000k/hls/mixed.m3u8
 破战,https://yzzy1.play-cdn20.com/20240216/17014_96791511/2000k/hls/mixed.m3u8
 金手指[国],https://ikcdn01.ikzybf.com/20240213/xZTh2qQA/2000kb/hls/index.m3u8
@@ -2602,13 +2459,10 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 一闪一闪亮星星,https://ikcdn01.ikzybf.com/20240213/vWZ9ePUu/2000kb/hls/index.m3u8
 照明商店,https://yzzy.play-cdn19.com/20240213/19794_4de23d38/2000k/hls/index.m3u8#
 年会不能停,https://yzzy.play-cdn19.com/20240213/19788_da07138c/2000k/hls/index.m3u8
-北冥有鲲,https://vip.ffzy-online6.com/20240211/26120_e94353cd/2000k/hls/index.m3u8
 四平警事之钻石大劫案,https://v.cdnlz2.com/20240206/28771_69d6e63e/2000k/hls/mixed.m3u8
 露梁海战,https://v.cdnlz19.com/20240205/13018_c311202b/2000k/hls/mixed.m3u8
-黑白潜行,https://vip.ffzy-online6.com/20240204/25747_fb206ff2/2000k/hls/index.m3u8
 三大队,https://v.cdnlz2.com/20240201/28578_1ad90f25/2000k/hls/mixed.m3u8
 我本是高山,https://v.cdnlz12.com/20240128/11176_b475b264/2000k/hls/mixed.m3u8
-长白山猎人传说,https://vip.ffzy-online6.com/20240130/25459_dbbc3359/2000k/hls/index.m3u8
 [美]无法治愈,https://vip.lz-cdn3.com/20220624/8306_5b24c626/1000k/hls/mixed.m3u8
 [美]养蜂人抢先,https://www.yzzy.play-cdn20.com/20240130/14212_512dac09/2000k/hls/index.m3u8
 孤注一掷,https://v.cdnlz12.com/20240131/11213_0006f281/2000k/hls/mixed.m3u8
@@ -2637,7 +2491,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 
 
 豆瓣高分电影,#genre#
-93航班,https://vip.ffzy-play6.com/20221029/2744_7fdbe383/2000k/hls/mixed.m3u8
 萨利机长,https://vip.ffzy-play7.com/20221106/1835_c7f12160/2000k/hls/mixed.m3u8
 鬼吹灯之龙岭迷窟,https://vip.kuaikan-play1.com/20230308/YIHUHM9s/1760kb/hls/index.m3u8
 鬼吹灯之寻龙诀,https://s1.bfzycdn.com/video/guichuidengzhixunlongjue/HD%E5%9B%BD%E8%AF%AD/index.m3u8
@@ -2647,40 +2500,26 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 复仇岛,https://vip.ffzy-online1.com/20230614/41396_4008fa0f/2000k/hls/mixed.m3u8
 决战帝国,https://hn.bfvvs.com/play/DbDxNqbl/index.m3u8
 决战帝国,https://hn.bfvvs.com/play/DbDxNqbl/index.m3u8
-青木川传奇,https://vip.ffzy-play6.com/20221023/1492_21d98038/2000k/hls/mixed.m3u8
-青木川传奇,https://leshiyuncdn.36s.top/20240223/suvc8Y70/3750kb/hls/index.m3u8
 太空救援,https://vip.ffzy-play7.com/20221104/1440_e165e96a/2000k/hls/mixed.m3u8
 太空救援,https://hn.bfvvs.com/play/DbD0DBbl/index.m3u8
-海盗岛甲板上的家族,https://vip.ffzy-play6.com/20221031/3140_4d158cc2/2000k/hls/mixed.m3u8
 伏击2023,https://vip.ffzy-play5.com/20230320/8910_c73b3f9a/2000k/hls/mixed.m3u8
-惊天营救2,https://svipsvip.ffzyread1.com/20230616/13945_bfb3b392/2000k/hls/index.m3u8
-惊天魔盗团,https://vip.ffzy-play6.com/20221019/172_ab70dfdd/2000k/hls/mixed.m3u8
 猩球崛起新世界,https://vip.ffzy-online1.com/20240510/49130_d626384c/2000k/hls/mixed.m3u8
 决战帝国,https://hn.bfvvs.com/play/DbDxNqbl/index.m3u8
 决战帝国,https://vip.kuaikan-play1.com/20230308/A1KV0kyH/658kb/hls/index.m3u8
 哨兵行动,https://vip.ffzy-play7.com/20221226/9859_97ede369/2000k/hls/mixed.m3u8
 哨兵行动,https://vip.kuaikan-cdn3.com/20230330/AlkV4rlO/hls/index.m3u8
 热辣滚烫,https://svipsvip.ffzyread1.com/20240418/26209_829902db/2000k/hls/mixed.m3u8
-第二十条,https://svipsvip.ffzy-online5.com/20240426/26560_596f7554/2000k/hls/mixed.m3u8
-飞驰人生2,https://svipsvip.ffzy-online5.com/20240428/26643_6d4f92ab/2000k/hls/mixed.m3u8
-周处除三害,https://svipsvip.ffzy-online5.com/20240301/24303_f0da8c06/2000k/hls/mixed.m3u8
 孤注一掷,https://vip.ffzy-online1.com/20240430/48811_221dd2ee/2000k/hls/mixed.m3u8
-唐山大地震,https://vip.ffzy-play6.com/20221022/979_c2c7cf9a/2000k/hls/mixed.m3u8
 史前怪兽 (2024),https://s10.fsvod1.com/20240422/xrbJ8MIB/2000kb/hls/index.m3u8
 破墓 (2024),https://s10.fsvod1.com/20240421/ZS4ChJYx/2000kb/hls/index.m3u8
 临时劫案 (2024),https://s10.fsvod1.com/20240306/6ojWInsL/2000kb/hls/index.m3u8
 僵尸先生,https://vip.ffzy-play7.com/20230507/24165_799a7b4a/2000k/hls/mixed.m3u8
-僵尸至尊,https://vip.ffzy-play6.com/20221129/9344_44b64a1a/2000k/hls/mixed.m3u8
-倚天屠龙记之九阳神功,https://vip.ffzy-play.com/20221015/964_2b9df10c/5000k/hls/mixed.m3u8
-尸家重地,https://vip.ffzy-play6.com/20221112/6051_a60c9433/2000k/hls/mixed.m3u8
 极速僵尸,https://vip.ffzy-play6.com/20221022/1127_e10a4a23/2000k/hls/mixed.m3u8
 驱魔道长,https://vip.ffzy-play7.com/20221112/3670_136b232e/2000k/hls/mixed.m3u8
 赌侠,https://vip.ffzy-online.com/20221017/869_4ed0959f/2000k/hls/mixed.m3u8
 天地玄门,https://vip.ffzy-play6.com/20221112/6127_d615f342/2000k/hls/mixed.m3u8
 僵尸先生5驱魔警察,https://vip.ffzy-play6.com/20221205/9856_18a53055/2000k/hls/mixed.m3u8
 侏罗纪崛起,https://vip.ffzy-play6.com/20221122/7883_e46af164/2000k/hls/mixed.m3u8
-绝命海岛,https://svipsvip.ffzy-online5.com/20240508/27006_7c8740b2/2000k/hls/mixed.m3u8
-斯莱思狩猎传奇,https://svipsvip.ffzy-online5.com/20240508/27003_3f5291ff/2000k/hls/mixed.m3u8
 灰影人,https://vip.ffzy-play7.com/20221225/9793_976ebee6/2000k/hls/mixed.m3u8
 极线杀手,https://vip.ffzy-play6.com/20221126/8509_df155574/2000k/hls/mixed.m3u8
 首尔大作战,https://vip.ffzy-play7.com/20221224/9666_a61bd3aa/2000k/hls/mixed.m3u8
@@ -2689,7 +2528,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 极地反击,https://vip.ffzy-play7.com/20221226/9843_777ae90f/2000k/hls/mixed.m3u8
 超能泰坦,https://vip.ffzy-online.com/20221015/737_71ccf696/5000k/hls/mixed.m3u8
 玩命三姐妹,https://vip.ffzy-play7.com/20230116/11586_477acb30/2000k/hls/mixed.m3u8
-侠盗,https://vip.ffzy-play6.com/20221204/9748_7d2d62fe/2000k/hls/mixed.m3u8
 超能计划,https://vip.ffzy-play7.com/20221226/9831_ceb2f30c/2000k/hls/mixed.m3u8
 贴身女保镖2019,https://vip.ffzy-play7.com/20221223/9448_ff2f5496/2000k/hls/mixed.m3u8
 2020去死,https://vip.ffzy-play7.com/20230123/12040_c0d4427c/2000k/hls/mixed.m3u8
@@ -2699,12 +2537,10 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 边境杀手,https://vip.ffzy-play7.com/20221208/8774_628c1d65/2000k/hls/mixed.m3u8
 指环王1护戒使者,https://vip.ffzy-play7.com/20230411/22167_a385d245/2000k/hls/mixed.m3u8
 指环王2双塔奇兵,https://vip.ffzy-play7.com/20221127/7286_672b6ffa/2000k/hls/mixed.m3u8
-指环王3王者无敌,https://vip.ffzy-play6.com/20221017/19_8752ff61/2000k/hls/mixed.m3u8
 指环王1魔戒再现,https://vip.kuaikan-cdn4.com/20240220/k2bjbEoB/898kb/hls/index.m3u8
 终结者,https://vip.ffzy-play7.com/20221228/10160_5afa1582/2000k/hls/mixed.m3u8
 终结者2审判日,https://vip.ffzy-play7.com/20230219/15391_e0dd8424/2000k/hls/mixed.m3u8
 终结者3,https://vip.ffzy-play7.com/20230219/15338_218ad517/2000k/hls/mixed.m3u8
-终结者黑暗命运,https://vip.ffzy-play6.com/20221204/9671_c7c6d23b/2000k/hls/mixed.m3u8
 终结者2018,https://vip.ffzy-play7.com/20230217/15110_af027ece/2000k/hls/mixed.m3u8
 致命女郎,https://vip.ffzy-play7.com/20230319/18963_6a43929e/2000k/hls/mixed.m3u8
 人工智能伏羲觉醒,https://vip.ffzy-play7.com/20221124/6740_57a26e73/2000k/hls/mixed.m3u8
@@ -2712,16 +2548,10 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 特工绍特,https://vip.ffzy-play7.com/20221231/10563_e4439114/2000k/hls/mixed.m3u8
 魔警,https://vip.ffzy-play7.com/20221028/550_4d98b3ec/2000k/hls/mixed.m3u8
 暴走神探,https://vip.ffzy-play7.com/20221103/1092_043fc37e/2000k/hls/mixed.m3u8
-骇客交锋,https://vip.ffzy-play6.com/20221204/9703_35d85348/2000k/hls/mixed.m3u8
-天际浩劫,https://vip.ffzy-play6.com/20221022/988_81da1c82/2000k/hls/mixed.m3u8
 明日边缘,https://vip.ffzy-play7.com/20221028/545_59fc39b3/2000k/hls/mixed.m3u8
-明日世界,https://vip.ffzy-play6.com/20221103/4015_ee52532a/2000k/hls/mixed.m3u8
 超能查派,https://vip.ffzy-play7.com/20230214/14682_7c3df6aa/2000k/hls/mixed.m3u8
-新木乃伊,https://vip.ffzy-play6.com/20221204/9622_81856a3d/2000k/hls/mixed.m3u8
 横冲直撞好莱坞,https://vip.ffzy-play7.com/20230117/11733_65598d1d/2000k/hls/mixed.m3u8
 正义的子弹,https://vip.kuaikan-cdn3.com/20230331/gY6qi4ni/hls/index.m3u8
-黄雀在后,https://svipsvip.ffzy-online5.com/20240506/26948_6fe0b3cc/2000k/hls/mixed.m3u8
-哥斯拉大战金刚2：帝国崛起,https://svipsvip.ffzy-online5.com/20240514/27243_6a0055ac/2000k/hls/mixed.m3u8
 
 
 
@@ -3918,7 +3748,6 @@ KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chu
 阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 KBS1,https://code.vthanhtivi.pw/getlink/kbs/60_11/playlist.m3u8
 NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-nhkworld,https://bmcc.nhkworld.jp/live/index_1M.m3u8
 NTVNews24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 NHKWorldPremium,https://cdn1.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 ShopChannel,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
