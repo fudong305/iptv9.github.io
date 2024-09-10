@@ -41,8 +41,6 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 group-title="央视直播(IPV6),#genre#",CETV-4
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-#EXTINF:-1 group-title="央视直播(IPV6),#genre#",CCTV-4K
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 group-title="央视直播(IPV6),#genre#",4KUHD
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 #EXTINF:-1 group-title="卫视频道(IPV6),#genre#",北京卫视
@@ -119,8 +117,6 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 group-title="卫视频道(IPV6),#genre#",云南卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-#EXTINF:-1 group-title="卫视频道(IPV6),#genre#",三沙卫视
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?
 #EXTINF:-1 group-title="卫视频道(IPV6),#genre#",青海卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 #EXTINF:-1 group-title="卫视频道(IPV6),#genre#",新疆卫视
@@ -588,10 +584,6 @@ http://122.246.150.139:9999/rtp/233.50.200.191:5140?%24%E6%B5%99%E6%B1%9F%E7%94%
 #EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
 http://122.246.150.139:9999/rtp/233.50.200.42:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
 #EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
-http://61.130.232.196:8881/rtp/233.50.200.191:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
-#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
-http://61.130.232.196:8881/rtp/233.50.200.42:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
-#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
 http://61.130.232.37:8881/rtp/233.50.200.191:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
 #EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
 http://61.130.232.37:8881/rtp/233.50.200.42:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
@@ -600,13 +592,7 @@ http://61.130.232.37:8889/rtp/233.50.200.191:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5
 #EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
 http://61.130.232.37:8889/rtp/233.50.200.42:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
 #EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
-http://118.249.22.122:9999/udp/239.76.253.135:9000
-#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
-http://115.203.255.235:58888/udp/233.50.200.191:5140
-#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
 http://www.lebaobei.top:6868/udp/239.255.30.50:8231
-#EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰中文
-http://115.203.255.235:58888/udp/233.50.200.191:5140
 #EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰资讯
 http://122.246.150.139:9999/rtp/233.50.200.192:5140?%24%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1
 #EXTINF:-1 group-title="港台电视(IPV4),#genre#",凤凰资讯
@@ -670,13 +656,7 @@ http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 #EXTINF:-1 group-title="港台电视(IPV4),#genre#",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="港台电视(IPV4),#genre#",TVB星河
-http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 group-title="港台电视(IPV4),#genre#",TVB星河
 http://r.jdshipin.com/sXuuD
-#EXTINF:-1 group-title="港台电视(IPV4),#genre#",TVB亚洲武侠
-http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-#EXTINF:-1 group-title="港台电视(IPV4),#genre#",TVB亚洲武侠
-https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 #EXTINF:-1 group-title="港台电视(IPV4),#genre#",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 group-title="港台电视(IPV4),#genre#",环球电视台
@@ -1613,6 +1593,12 @@ http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
 http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8?zanhd
 #EXTINF:-1 group-title="安徽频道(IPV6),#genre#",「安徽」歙县综合频道
 http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8?zanhd
+#EXTINF:-1 group-title="安徽频道(IPV6),#genre#",安徽影视频道
+http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
+#EXTINF:-1 group-title="安徽频道(IPV6),#genre#",安徽经济生活频道
+http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
+#EXTINF:-1 group-title="安徽频道(IPV6),#genre#",安徽综艺体育频道
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 #EXTINF:-1 group-title="河北频道(IPV6),#genre#,",「河北」昌黎综合频道
 https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8?zhebd
 #EXTINF:-1 group-title="河北频道(IPV6),#genre#,",「河北」昌黎综合频道
@@ -1663,6 +1649,46 @@ http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
 http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild
 #EXTINF:-1 group-title="吉林频道(IPV6),#genre#,,",「吉林」延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
+#EXTINF:-1 group-title="山东频道(IPV4),#genre#",潍坊二套经济生活频道
+https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv2.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4),#genre#",潍坊三套公共频道
+https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv3.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4),#genre#",潍坊四套科教频道
+https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv4.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4),#genre#",青州电视台新闻综合频道
+http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4),#genre#",青州电视台生活频道
+http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4),#genre#",青州电视台文化旅游频道
+http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4),#genre#",济宁新闻综合频道
+http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4),#genre#",济宁公共频道
+http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4),#genre#",菏泽一套新闻综合频道
+http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4),#genre#",菏泽二套经济生活频道
+http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4),#genre#",菏泽三套影视频道
+http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4),#genre#",烟台公共频道
+http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4),#genre#",烟台影视频道
+http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4),#genre#",威海一套新闻综合频道
+http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4),#genre#",威海二套公共频道
+http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4),#genre#",威海三套海洋频道
+http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4),#genre#",临沂新闻综合频道
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4),#genre#",临沂公共频道
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4),#genre#",临沂农科频道
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
+#EXTINF:-1 group-title="山东频道(IPV4),#genre#",枣庄公共频道
+http://stream.zztvzd.com/3/sd/live.m3u8
 #EXTINF:-1 group-title="北京国信(IPV4),#genre#",CCTV1高清
 http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="北京国信(IPV4),#genre#",CCTV2高清
@@ -2999,8 +3025,6 @@ http://live.kanwz.net/zhpd/playlist.m3u8
 http://dtrmlive.qhdtrm.cn/testpush/playlist.m3u8
 #EXTINF:-1 group-title="地方卫视2(IPV4),#genre#",南宁新闻综合
 https://hls.nntv.cn/nnlive/XWZH_24.m3u8
-#EXTINF:-1 group-title="地方卫视2(IPV4),#genre#",邯郸公共
-https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
 #EXTINF:-1 group-title="地方卫视2(IPV4),#genre#",河北昌黎
 http://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.flv
 #EXTINF:-1 group-title="地方卫视2(IPV4),#genre#",定州国学影视
