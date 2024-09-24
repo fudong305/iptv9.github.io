@@ -1,4 +1,4 @@
-VIP频道_188,#genre#
+VIP频道,#genre#
 Dali TV,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 大爱二台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8#https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
@@ -116,7 +116,7 @@ WIN HD綜合,https://epg.pw/stream/beedf009af55b6adf5840ba8defe6a88bb4e1b85c6e31
 
 
 
-VIP2频道_188,#genre#
+VIP2频道,#genre#
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
 韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
@@ -173,7 +173,7 @@ Shinsegae TV Shopping,https://liveout.catenoid.net/live-02-shinsegaetvshopping/s
 TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
 
 
-VIP频道3_188,#genre#
+VIP频道3,#genre#
 AlbKanale Music TV Ⓢ,https://albportal.net/albkanalemusic.m3u8
 CNA,https://live1.mediadesk.al/cnatvlive.m3u8
 News 24 Ⓢ,https://tv.balkanweb.com/news24/livestream/playlist.m3u8
